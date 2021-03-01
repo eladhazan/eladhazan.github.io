@@ -6,7 +6,9 @@ layout: home
 ---
 <p style="float: left; padding-right: 15px"><img src="elad.jpg" alt="headshot" width="230" /></p>
 
-I study the automation of the learning mechanism and its efficient algorithmic implementation. This study centers in the field of machine learning and touches upon mathematical optimization, game theory, statistics and computational complexity. For more details see my bio and CV page
+I study the automation of the learning mechanism and its efficient algorithmic implementation. This study centers in the field of machine learning and touches upon mathematical optimization, game theory, statistics and computational complexity. For more details see my bio and CV page.
+
+For more information about my group and our research, [see our group webpage](www.minimizingregret.com). 
 
 
 ---------------------------------
