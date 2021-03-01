@@ -1,22 +1,11 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Bio and CV page
+permalink: /bio/
 ---
 
-See also [Google Scholar](https://scholar.google.com/citations?hl=en&user=HjWpRCIAAAAJ).
+Elad Hazan is a professor of computer science at Princeton University. His research focuses on the design and analysis of algorithms for basic problems in machine learning and optimization. Amongst his contributions are the co-invention of the AdaGrad algorithm for deep learning, and the first sublinear-time algorithms for convex optimization. He is the recipient of the Bell Labs prize, the IBM Goldberg best paper award twice, in 2012 and 2008, a European Research Council grant, a Marie Curie fellowship and twice the Google Research Award. He served on the steering committee of the Association for Computational Learning and has been program chair for COLT 2015. In 2017 he co-founded In8 inc. focusing on efficient optimization and control, acquired by Google in 2018. He is the co-founder and director of Google AI Princeton.
 
-<sup> \* denotes alphabetical order </sup>
+Research interests: Control and Reinforcement Learning, Optimization for Machine Learning, Online Convex Optimization. More details and links to the relevant papers are in this page.
 
-- [Adaptive Regret for Control of Time-Varying Dynamics](https://arxiv.org/pdf/2007.04393.pdf)  
-\*Paula Gradu, Elad Hazan, Edgar Minasyan  
-*Preprint*
-- [Faster Projection-free Online Learning](http://proceedings.mlr.press/v125/hazan20a/hazan20a.pdf)  
-\*Elad Hazan, Edgar Minasyan  
-*COLT 2020*
-- [Predicate Exchange: Inference with Declarative Knowledge](http://proceedings.mlr.press/v97/tavares19a/tavares19a.pdf)  
-Zenna Tavares, Javier Burroni, Edgar Minasyan, Armando Solar-Lezama, Rajesh Ranganath  
-*ICML 2019*
-- [Hockey-Stick GAN](https://openreview.net/pdf?id=HJOt7P1wz)  
-Edgar Minasyan, Vinay Uday Prabhu  
-*ICLR 2018*, workshop track
+Link to full CV
