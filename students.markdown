@@ -17,4 +17,4 @@ See our Group Webpage & Blog, and the webpage of the Theoretical Machine Learnin
 - [Xinyi Chen](https://xinyi.github.io/)
 - [Nataly Brukhim](https://www.cs.princeton.edu/~nbrukhim/)
 - [Edgar Minasyan](https://minasyan.github.io/)
-- Udaya Ghai
+- [Udaya Ghai](https://www.cs.princeton.edu/~ughai/)
