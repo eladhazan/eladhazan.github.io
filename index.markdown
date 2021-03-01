@@ -10,19 +10,21 @@ I study the automation of the learning mechanism and its efficient algorithmic i
 
 ---------------------------------
 
+### **Books/Surveys**
+
+- [Introduction to Online Convex Optimization](http://proceedings.mlr.press/v97/tavares19a/tavares19a.pdf)  
+
+- [Optimization for Machine Learning](https://openreview.net/pdf?id=HJOt7P1wz)  
+
+- [Introduction to Online and Non-stochastic Control](https://openreview.net/pdf?id=HJOt7P1wz)  
+
+
 ### **Publications/Preprints**
 
-
-- [Google Scholar page for all publcations](https://arxiv.org/pdf/2007.04393.pdf)  
+- [Google Scholar page for all publcations](https://scholar.google.com/citations?user=LnhCGNMAAAAJ&hl=en&oi=ao)  
  
-- [Same but chronological order](http://proceedings.mlr.press/v125/hazan20a/hazan20a.pdf)  
+- [Same but chronological order](https://scholar.google.com/citations?hl=en&user=LnhCGNMAAAAJ&view_op=list_works&sortby=pubdate)  
 
-- [Predicate Exchange: Inference with Declarative Knowledge](http://proceedings.mlr.press/v97/tavares19a/tavares19a.pdf)  
-Zenna Tavares, Javier Burroni, Edgar Minasyan, Armando Solar-Lezama, Rajesh Ranganath  
-*ICML 2019*
-- [Hockey-Stick GAN](https://openreview.net/pdf?id=HJOt7P1wz)  
-Edgar Minasyan, Vinay Uday Prabhu  
-*ICLR 2018*, workshop track
 
 ---------------------------------
 
