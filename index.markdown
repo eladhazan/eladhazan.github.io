@@ -12,14 +12,11 @@ I study the automation of the learning mechanism and its efficient algorithmic i
 
 ### **Publications/Preprints**
 
-<sup> \* denotes alphabetical order </sup>
 
-- [Adaptive Regret for Control of Time-Varying Dynamics](https://arxiv.org/pdf/2007.04393.pdf)  
-\*Paula Gradu, Elad Hazan, Edgar Minasyan  
-*Preprint*
-- [Faster Projection-free Online Learning](http://proceedings.mlr.press/v125/hazan20a/hazan20a.pdf)  
-\*Elad Hazan, Edgar Minasyan  
-*COLT 2020*
+- [Google Scholar page for all publcations](https://arxiv.org/pdf/2007.04393.pdf)  
+ 
+- [Same but chronological order](http://proceedings.mlr.press/v125/hazan20a/hazan20a.pdf)  
+
 - [Predicate Exchange: Inference with Declarative Knowledge](http://proceedings.mlr.press/v97/tavares19a/tavares19a.pdf)  
 Zenna Tavares, Javier Burroni, Edgar Minasyan, Armando Solar-Lezama, Rajesh Ranganath  
 *ICML 2019*
