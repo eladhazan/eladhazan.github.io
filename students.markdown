@@ -1,11 +1,20 @@
 ---
 layout: page
-title: Bio and CV 
-permalink: /bio/
+title: Students
+permalink: /students/
 ---
 
-Elad Hazan is a professor of computer science at Princeton University. His research focuses on the design and analysis of algorithms for basic problems in machine learning and optimization. Amongst his contributions are the co-invention of the AdaGrad algorithm for deep learning, and the first sublinear-time algorithms for convex optimization. He is the recipient of the Bell Labs prize, the IBM Goldberg best paper award twice, in 2012 and 2008, a European Research Council grant, a Marie Curie fellowship and twice the Google Research Award. He served on the steering committee of the Association for Computational Learning and has been program chair for COLT 2015. In 2017 he co-founded In8 inc. focusing on efficient optimization and control, acquired by Google in 2018. He is the co-founder and director of Google AI Princeton.
+See our Group Webpage & Blog, and the webpage of the Theoretical Machine Learning group at Princeton.
 
-Research interests: Control and Reinforcement Learning, Optimization for Machine Learning, Online Convex Optimization. More details and links to the relevant papers are in this page.
-
-Link to full CV
+[Tomer Koren (professor at Tel Aviv University)](https://tomerkoren.github.io/) *professor at Tel Aviv University*
+Dan Garber (professor at Technion)
+Kfir Levi (professor at Technion)
+Oren Anava
+Brian Bullins (postdoc at TTI Chicago)
+Naman Agarwal (research scientist at Google)
+Karan Singh
+Cyril Zhang (research scientist at MSR)
+Xinyi Chen
+Nataly Brukhim
+Edgar Minasyan
+Udaya Ghai
