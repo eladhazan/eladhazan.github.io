@@ -5,7 +5,7 @@ permalink: /positions/
 ---
 
 
-## Due to large volume, I am unable to reply to individual inquiries. Please see the following application information.
+Due to large volume, I am unable to reply to individual inquiries. Please see the following application information.
 
 
 ### **Theoretical Machine Learning postdocs**
