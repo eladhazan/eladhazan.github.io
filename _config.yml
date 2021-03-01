@@ -25,7 +25,9 @@ email: ehazan@princeton.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username: ehazan
+scholar_userid: LnhCGNMAAAAJ
+github_username: eladhazan
+twitter_username: HazanPrinceton
 
 # Build settings
 theme: minima
