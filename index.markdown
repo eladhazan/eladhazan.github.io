@@ -8,15 +8,16 @@ layout: home
 
 I study the automation of the learning mechanism and its efficient algorithmic implementation. This study centers in the field of machine learning and touches upon mathematical optimization, game theory, statistics and computational complexity. For more details see my bio and CV page
 
+
 ---------------------------------
 
 ### **Books/Surveys**
 
-- [Introduction to Online Convex Optimization](http://proceedings.mlr.press/v97/tavares19a/tavares19a.pdf)  
+- [Introduction to Online Convex Optimization](https://sites.google.com/view/intro-oco/)  
 
-- [Optimization for Machine Learning](https://openreview.net/pdf?id=HJOt7P1wz)  
+- [Optimization for Machine Learning](https://arxiv.org/abs/1909.03550)  
 
-- [Introduction to Online and Non-stochastic Control](https://openreview.net/pdf?id=HJOt7P1wz)  
+- [Introduction to Online and Non-stochastic Control](https://sites.google.com/view/cos59x-cct/lecture-notes?authuser=0)  
 
 
 ### **Publications/Preprints**
@@ -30,21 +31,17 @@ I study the automation of the learning mechanism and its efficient algorithmic i
 
 ### **Talks**
 
-- Adaptive Regret for Control of Time-Varying Dynamics (**Spotlight talk**)  
-	*Theoretical Foundations of Reinforcement Learning* workshop, *ICML* 2020 in June 2020
-- Faster Projection-free Online Learning  
-	*COLT* 2020 in July 2020  
-	Princeton Theoretical Machine Learning Seminar in April 2020
+- [Optimization for Machine Learning](https://youtu.be/f0qQsz4-o68)  
+
+- [The non-stochastic control problem](https://www.youtube.com/watch?v=dmWXHmjVxcI&feature=emb_err_woyt&ab_channel=ControlMeetsLearning)  
+
 
 ----------------------------------
 
 ### **Teaching**
 
-- Introduction to Machine Learning (COS324)  
-*Teaching Assistant* at Princeton University
-- Theoretical Machine Learning (COS511)  
-*Teaching Assistant* at Princeton University
-- Introduction to Machine Learning (6.036)  
-*Teaching Assistant* at MIT
-- Introduction to Machine Learning (6.036)  
-*Lab Assistant* at MIT
+- [Computational Control Theory](https://sites.google.com/view/cos59x-cct/home?authuser=0)  
+
+- [Theoretical Machine Learning (COS511)](https://sites.google.com/view/cos-511-tml/home)  
+
+- [Introduction to Machine Learning (COS 324)](https://www.cs.princeton.edu/courses/archive/spring21/cos324/)
