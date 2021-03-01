@@ -10,7 +10,7 @@ permalink: /positions/
 
 *** Theoretical Machine Learning postdocs
 
-- Please see this webpage for details for postdoctoral postions with the TML group, at both Princeton University and the Institute for Advanced Study: here
+- Please see this webpage for details for postdoctoral postions with the TML group, at both [Princeton University and the Institute for Advanced Study](https://mltheory.cs.princeton.edu/positions/)
 
 *** Graduate / undergraduate / internships
 
@@ -19,6 +19,6 @@ permalink: /positions/
 
 *** For postions at the Google AI Princeton lab
 Please apply through the Google job search mechanisms, as per the following:
-- Summer internships / research internships
-- Research Scientist, Google Brain (United States)
-- Research Software Engineer, Google Brain (United States)
+- [Summer internships / research internships](https://careers.google.com/)
+- [Research Scientist, Google Brain (United States)](https://careers.google.com/jobs/results/112893191134290630-research-scientist-google-ai-united-states/)
+- [Research Software Engineer, Google Brain (United States)](https://careers.google.com/)
