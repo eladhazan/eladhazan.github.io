@@ -28,6 +28,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 googlescholar_username: LnhCGNMAAAAJ
 github_username: eladhazan
 twitter_username: HazanPrinceton
+linkedin_username: elad-hazan-5736b64
+
 
 # Build settings
 theme: minima
