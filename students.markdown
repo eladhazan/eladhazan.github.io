@@ -9,7 +9,7 @@ See also our [Group Webpage & Blog](https://www.minimizingregret.com), and the w
 - [Tomer Koren](https://tomerkoren.github.io/) *professor at Tel Aviv University*
 - [Dan Garber](https://dangar.net.technion.ac.il/) *professor at the Technion*
 - [Kfir Levi](https://kfiryehud.wixsite.com/kfir-y-levy) *professor at Technion*
-- Oren Anava *researcher at Voleon*
+- [Oren Anava](https://www.linkedin.com/in/oren-anava-ba97954b/) *researcher at Voleon*
 - [Brian Bullins](https://bbullins.github.io/) *postdoc at TTI Chicago*
 - [Naman Agarwal](https://naman33k.github.io/) *research scientist at Google*
 - [Cyril Zhang](https://cyrilzhang.com/) *research scientist at Microsoft Research*
