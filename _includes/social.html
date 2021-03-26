@@ -156,7 +156,19 @@
         ></use></svg
     ></a>
   </li>
-  {%- endif -%}{%- endfor -%} {%- if social.twitter -%}
+  {%- endif -%}{%- endfor -%} {%- if social.googlescholar -%}
+  <li>
+    <a
+      rel="me"
+      href="https://scholar.google.com/citations?user={{
+        social.googlescholar | cgi_escape | escape
+      }}"
+      title="{{ social.googlescholar | escape }}"
+    >
+      <img class="svg-icon" src="/assets/img/google-scholar.svg" /> Elad Hazan
+    </a>
+  </li>
+  {%- endif -%} {%- if social.twitter -%}
   <li>
     <a
       rel="me"
@@ -167,18 +179,10 @@
           xlink:href="{{
             '/assets/minima-social-icons.svg#twitter' | relative_url
           }}"
-        ></use></svg
-    > HazanPrinceton</a>
-  </li>
-  {%- endif -%} {%- if social.googlescholar -%}
-  <li>
-    <a
-      rel="me"
-      href="https://scholar.google.com/citations?user={{ social.googlescholar | cgi_escape | escape }}"
-      title="{{ social.googlescholar | escape }}"
-      >
-      <img class="svg-icon" src="/assets/img/google-scholar.svg"> Elad Hazan
-    </a>
+        ></use>
+      </svg>
+      HazanPrinceton</a
+    >
   </li>
   {%- endif -%} {%- if social.youtube -%}
   <li>
