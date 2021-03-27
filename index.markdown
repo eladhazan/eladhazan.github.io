@@ -11,7 +11,7 @@ Director and co-founder, [Google AI Princeton](https://ai.googleblog.com/2018/12
 
 I study the automation of the learning mechanism and its efficient algorithmic implementation. This study centers in the field of machine learning and touches upon mathematical optimization, game theory, statistics and computational complexity. For more details see my [bio and CV](/bio/) page.
 
-For more information about my group and our research, [see our group webpage](https://www.minregret.com). 
+For more information about my group and our research, [see our group webpage](https://minregret.com). 
 
 
 ---------------------------------
