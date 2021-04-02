@@ -4,7 +4,7 @@ title: Students
 permalink: /students/
 ---
 
-See also our [Group Webpage & Blog](https://www.minimizingregret.com), and the webpage of the [Theoretical Machine Learning group at Princeton](https://mltheory.cs.princeton.edu/).
+See also our [Group Webpage & Blog](https://www.minregret.com), and the webpage of the [Theoretical Machine Learning group at Princeton](https://mltheory.cs.princeton.edu/).
 
 - [Tomer Koren](https://tomerkoren.github.io/) *professor at Tel Aviv University*
 - [Dan Garber](https://dangar.net.technion.ac.il/) *professor at the Technion*
