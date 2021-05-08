@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My favorite research highlights: 
+Research highlights: 
 - [Online Newton Step algorithm - first logarithmic regret for online convex optimization](https://link.springer.com/article/10.1007/s10994-007-5016-8)  
 - [First sublinear time algorithms for machine learning](https://arxiv.org/abs/1010.4408) and for [semi-definite programming](https://link.springer.com/article/10.1007/s10107-015-0932-z)
 - [AdaGrad - first adaptive gradient algorithm](https://dl.acm.org/doi/10.5555/1953048.2021068)  
@@ -13,5 +13,5 @@ My favorite research highlights:
 - [Introduction of Non-stochastic Control Theory](https://sites.google.com/view/cos59x-cct/lecture-notes?authuser=0)  
 
 
-More details and links to the relevant papers are in [this page](https://www.minregret.com).
+More details, recent research and blog posts are in [our group webpage](https://www.minregret.com).
 
