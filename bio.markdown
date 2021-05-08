@@ -15,6 +15,6 @@ Research highlights:
 - [Introduction of Non-stochastic Control Theory](https://sites.google.com/view/cos59x-cct/lecture-notes?authuser=0)  
 
 
-More details and links to the relevant papers are in [this page](https://www.minimizingregret.com).
+More details and links to the relevant papers are in [this page](https://www.minregret.com).
 
 Link to [full CV.](/cv-eh.pdf)
