@@ -18,3 +18,4 @@ See also our [Group Webpage & Blog](https://www.minregret.com), and the webpage 
 - [Nataly Brukhim](https://www.cs.princeton.edu/~nbrukhim/)
 - [Edgar Minasyan](https://minasyan.github.io/)
 - [Udaya Ghai](https://www.cs.princeton.edu/~ughai/)
+- [Paula Gradu](https://paula-gradu.github.io/)
