@@ -41,6 +41,6 @@ For more information about my group and our research, [see our group webpage](ht
 
 ### **Teaching**
 
+- [Theoretical Machine Learning (COS511)](https://sites.google.com/view/cos-511-tml-2022/home)  
 - [Computational Control Theory](https://sites.google.com/view/cos59x-cct/home?authuser=0)  
-- [Theoretical Machine Learning (COS511)](https://sites.google.com/view/cos-511-tml/home)  
 - [Introduction to Machine Learning (COS 324)](https://www.cs.princeton.edu/courses/archive/spring21/cos324/)
