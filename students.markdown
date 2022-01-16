@@ -19,3 +19,5 @@ See also our [Group Webpage & Blog](https://www.minregret.com), and the webpage 
 - [Edgar Minasyan](https://minasyan.github.io/)
 - [Udaya Ghai](https://www.cs.princeton.edu/~ughai/)
 - [Paula Gradu](https://paula-gradu.github.io/)
+- [Wenhan Xia](https://ece.princeton.edu/people/wenhan-xia)
+- [Zhou Lu](https://scholar.google.com/citations?user=17_nX_kAAAAJ&hl)
