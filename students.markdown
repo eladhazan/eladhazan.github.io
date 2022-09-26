@@ -21,3 +21,4 @@ See also our [Group Webpage & Blog](https://www.minregret.com), and the webpage 
 - [Paula Gradu](https://paula-gradu.github.io/)
 - [Wenhan Xia](https://ece.princeton.edu/people/wenhan-xia)
 - [Zhou Lu](https://scholar.google.com/citations?user=17_nX_kAAAAJ&hl)
+- [Jennifer Sun](https://orfe.princeton.edu/people/jennifer-sun)
