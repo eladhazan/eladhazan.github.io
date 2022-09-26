@@ -19,7 +19,7 @@ For more information about my group and our research, [see our group webpage](ht
 
 - [Introduction to Online Convex Optimization](https://sites.google.com/view/intro-oco/)  
 - [Optimization for Machine Learning](https://arxiv.org/abs/1909.03550)  
-- [Introduction to Online and Non-stochastic Control](https://sites.google.com/view/cos59x-cct/lecture-notes?authuser=0) , [ICML 2020 Tutorial](https://sites.google.com/view/nsc-tutorial/home) 
+- [Introduction to Online Nonstochastic Control](https://sites.google.com/view/online-nonstochastic-control/home) , see also [ICML 2020 Tutorial](https://sites.google.com/view/nsc-tutorial/home) 
 
 ---------------------------------
 
