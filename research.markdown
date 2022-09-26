@@ -10,7 +10,7 @@ Research highlights:
 - [AdaGrad - first adaptive gradient algorithm](https://dl.acm.org/doi/10.5555/1953048.2021068)  
 - [Provable low-rank fast and simple SDP solver](https://link.springer.com/chapter/10.1007/978-3-540-78773-0_27)  
 - [First linearly converging projection-free (Frank-Wolfe) algorithm](https://arxiv.org/abs/1301.4666)  
-- [Introduction of Non-stochastic Control Theory](https://sites.google.com/view/cos59x-cct/lecture-notes?authuser=0)  
+- [Introduction of Online Nonstochastic Control Theory](https://sites.google.com/view/online-nonstochastic-control/home)  
 
 
 More details, recent research and blog posts are in [our group webpage](https://www.minregret.com).
