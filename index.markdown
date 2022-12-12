@@ -7,10 +7,11 @@ layout: home
 <p style="float: left; padding-right: 15px"><img src="elad.jpg" alt="headshot" width="210" /></p>
 
 Professor of [Computer Science, Princeton University](https://www.cs.princeton.edu/) \
-Director and co-founder, [Google AI Princeton](https://ai.googleblog.com/2018/12/google-ai-princeton-current-and-future.html)
+Director and co-founder, [Google AI Princeton](https://sites.google.com/view/gbrainprinceton/home)
 
 I study the automation of the learning mechanism and its efficient algorithmic implementation. This study centers in the field of machine learning and touches upon mathematical optimization, game theory, statistics and computational complexity. For more details, see [research](/research/) and [bio](/bio/) pages.
 For more information about my group and our research, [see our group webpage](https://minregret.com). 
+For more information about Google Brain Research, and the activity of this lab, please see [this webpage](https://sites.google.com/view/gbrainprinceton/home).
 
 
 ---------------------------------
