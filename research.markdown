@@ -11,7 +11,7 @@ Research highlights:
 - [Online Newton Step algorithm - first logarithmic regret for online convex optimization](https://link.springer.com/article/10.1007/s10994-007-5016-8)  
   This work explored the deep connection between mathematical optimization and online learning: it shows that the phenomenon of logarithmic regret, present in the work of [Tom Cover](https://en.wikipedia.org/wiki/Thomas_M._Cover) on [universal portfolio selection](https://en.wikipedia.org/wiki/Universal_portfolio_algorithm), is an artifact of curvature of the loss function, and can be explained using efficient methods from mathematical optimization. The paper gives an online variant of Newton's method, which has found numerous applications since.
  
-- [First sublinear time algorithms for machine learning](https://arxiv.org/abs/1010.4408) and for [semi-definite programming](https://link.springer.com/article/10.1007/s10107-015-0932-z)
+- [First sublinear time algorithms for machine learning](https://arxiv.org/abs/1010.4408) and for [semi-definite programming](https://link.springer.com/article/10.1007/s10107-015-0932-z) 
   In this work we ask whether mathematical optimization problems can be approximately solved in less time than it takes to transmit a full representation? Although counter-intuitive, it is possible to use randomness to solve certain problems in sublinear time with high probability. 
 
 - [Provable low-rank fast and simple SDP solver](https://link.springer.com/chapter/10.1007/978-3-540-78773-0_27)  
