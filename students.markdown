@@ -15,11 +15,11 @@ See also our [Group Webpage & Blog](https://www.minregret.com), and the webpage 
 - [Cyril Zhang](https://cyrilzhang.com/) *research scientist at Microsoft Research*
 - [Karan Singh](https://i-am-karan-singh.github.io/) *professor at CMU*
 - [Daniel Suo](https://www.danielsuo.com/) *research scientist at Google, co-advised w. Kai Li*
+- [Udaya Ghai](https://www.cs.princeton.edu/~ughai/) *research scientist at Amazon*
 - [Xinyi Chen](https://xinyi.github.io/)
 - [Nataly Brukhim](https://www.cs.princeton.edu/~nbrukhim/)
 - [Edgar Minasyan](https://minasyan.github.io/)
-- [Udaya Ghai](https://www.cs.princeton.edu/~ughai/)
 - [Paula Gradu](https://paula-gradu.github.io/) *supposedly at Berkeley, but make no mistake - she's my student*
 - [Wenhan Xia](https://ece.princeton.edu/people/wenhan-xia)
 - [Zhou Lu](https://scholar.google.com/citations?user=17_nX_kAAAAJ&hl)
-- [Jennifer Sun](https://orfe.princeton.edu/people/jennifer-sun)
+- [Jennifer Sun](https://jysun105.github.io/)
