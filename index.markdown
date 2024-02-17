@@ -12,7 +12,7 @@ Director and co-founder, [Google AI Princeton](https://sites.google.com/view/gbr
 I study the automation of the learning mechanism and its efficient algorithmic implementation. This study centers in the field of machine learning and touches upon mathematical optimization, game theory, statistics and computational complexity. For more details, see [research](/research/) and [bio](/bio/) pages.
 For more information about my group and our research, [see our group webpage](https://minregret.com). 
 For more information about Google Brain Research, and the activity of this lab, please see [this webpage](https://sites.google.com/view/gbrainprinceton/home). </br>
-An [open problem](/openproblem/) in optimization with 500$ prize. 
+An [open problem](https://www.ehazan.com/openproblem/openproblem.markdown) in optimization with 500$ prize. 
 
 ---------------------------------
 
