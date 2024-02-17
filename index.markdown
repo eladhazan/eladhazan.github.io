@@ -13,7 +13,7 @@ I study the automation of the learning mechanism and its efficient algorithmic i
 For more information about my group and our research, [see our group webpage](https://minregret.com). 
 For more information about Google Brain Research, and the activity of this lab, please see [this webpage](https://sites.google.com/view/gbrainprinceton/home). 
 
-An [open problem](https://www.ehazan.com/openproblem/openproblem.markdown) in optimization with 500$ prize. 
+An [open problem](/openproblem/) in optimization with 500$ prize. 
 
 ---------------------------------
 
