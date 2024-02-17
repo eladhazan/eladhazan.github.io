@@ -14,5 +14,5 @@ In this [open problem](https://ehazan.com/open_problem.pdf), jointly written wit
 
 ### **The Prize**
 
-A prize of 500$ will be given to the successful solver/solvers, for either proof or disproof of the conjecture. 
+A prize of 500$ will be given to the successful solver/s, for either proof or disproof of the conjecture. 
 
