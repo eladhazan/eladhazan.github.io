@@ -23,5 +23,8 @@ Research highlights:
 - [Introduction of Online Nonstochastic Control Theory](https://sites.google.com/view/online-nonstochastic-control/home)  
   This line of work introduces a new methodology in control which is inherently online and based on regret minimization in repeated games. The framework gives rise to new algorithms that optimize disturbance based policies, as opposed to state-feedback policies. See this [book draft](https://arxiv.org/abs/2211.09619) for more details. 
 
+- [Spectral Transformers](https://sites.google.com/view/gbrainprinceton/projects/spectral-transformers)  
+  Most recently our group has proposed a new neural architecture based on ideas from online control, namely spectral filtering. The resulting architecture has provable length generalization guarantees and near-constant time inference. See this [website](https://sites.google.com/view/gbrainprinceton/projects/spectral-transformers) for more details. 
+
 More details, recent research and blog posts are in [our group webpage](https://www.minregret.com).
 
