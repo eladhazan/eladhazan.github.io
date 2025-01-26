@@ -4,7 +4,7 @@ title: Bio and CV
 permalink: /bio/
 ---
 
-Elad Hazan is a professor of computer science at Princeton University. His research focuses on the design and analysis of algorithms for basic problems in machine learning and optimization. Among his contributions are the co-invention of the AdaGrad algorithm for deep learning, the first sublinear-time algorithms for convex optimization, and online nonstochastic control theory. He is the recipient of the Bell Labs Prize, the IBM Goldberg best paper award twice, a European Research Council grant, a Marie Curie fellowship and twice the Google Research Award. He served on the steering committee of the Association for Computational Learning and was program chair for the Conference on Learning Theory 2015. He is the co-founder and director of Google AI Princeton.
+Elad Hazan is a professor of computer science at Princeton University. His research focuses on the design and analysis of algorithms for basic problems in machine learning and optimization. Among his contributions are the co-invention of the AdaGrad algorithm for deep learning, the first sublinear-time algorithms for convex optimization, and online nonstochastic control theory. He is the recipient of the Bell Labs Prize, the IBM Goldberg best paper award twice, a European Research Council grant, a Marie Curie fellowship, Google Research Award and is an ACM fellow. He served on the steering committee of the Association for Computational Learning and was program chair for the Conference on Learning Theory 2015. He is the co-founder and director of Google AI Princeton.
 
 Research highlights: 
 - [Online Newton Step algorithm - first logarithmic regret for online convex optimization](https://link.springer.com/article/10.1007/s10994-007-5016-8)  
