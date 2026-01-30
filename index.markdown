@@ -41,7 +41,7 @@ For more information about Google Brain Research, and the activity of this lab, 
 
 ### **Teaching**
 
-- [Theoretical Machine Learning (COS511)](https://sites.google.com/view/cos511fall2024/home) [older version](https://sites.google.com/view/cos-511-tml-2022/home)  
+- [Theoretical Machine Learning (COS511)](https://sites.google.com/view/cos-511-spring-2026/home)   
 - [AI Alignment & Safety (COS 597Q)](https://sites.google.com/view/cos598aisafety/)
 - [Computational Control Theory](https://sites.google.com/view/cos59x-cct/)  
 - [Introduction to Machine Learning (COS 324)](https://www.cs.princeton.edu/courses/archive/spring21/cos324/)
