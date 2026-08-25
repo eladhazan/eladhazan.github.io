@@ -7,6 +7,7 @@ layout: home
 <p style="float: left; padding-right: 15px"><img src="elad.jpg" alt="headshot" width="210" /></p>
 
 Professor of [Computer Science, Princeton University](https://www.cs.princeton.edu/) \
+Director of AI Alignment and Safety, Princeton University \
 Director and co-founder, [Google AI Princeton](https://sites.google.com/view/gbrainprinceton/home)
 
 I study the automation of the learning mechanism and its efficient algorithmic implementation. This study centers in the field of machine learning and touches upon mathematical optimization, game theory, statistics and computational complexity. For more details, see [research](/research/) and [bio](/bio/) pages.
