@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<p style="float: left; padding-right: 15px"><img src="elad.jpg" alt="headshot" width="210" /></p>
+<p style="float: left; padding-right: 15px"><img src="elad.png" alt="headshot" width="210" /></p>
 
 Professor of [Computer Science, Princeton University](https://www.cs.princeton.edu/) \
 Director of AI Alignment and Safety, Princeton University \
