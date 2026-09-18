@@ -7,7 +7,7 @@ permalink: /positions/
 
 Due to large volume, I am unable to reply to individual inquiries. Please see the following application information.
 
-### **Postdoctoral positions in AI Safety and Alignment **
+### **Postdoctoral positions in AI Safety and Alignment**
 
 - Please apply here: [Princeton AI Alignment & Safety Positions](https://apply.interfolio.com/192161)
 
