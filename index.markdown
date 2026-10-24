@@ -8,9 +8,9 @@ Professor of [Computer Science, Princeton University](https://www.cs.princeton.e
 Director of [Princeton AI Alignment and Safety (AIAS)](https://alignment.dais.princeton.edu/) \
 Co-founder, [Google AI Princeton](https://sites.google.com/view/gbrainprinceton/home)
 
-I study the foundations of machine learning, optimization, and control. My work develops algorithms that learn from experience, make decisions under uncertainty, and predict and control dynamical systems. I am also interested in how to evaluate and align increasingly capable AI systems, using ideas from online learning, game theory, and mechanism design.
+I study the foundations of machine learning, optimization, and control, developing algorithms that learn from experience, decide under uncertainty, and predict and control dynamical systems. I also study how online learning, game theory, and mechanism design can help evaluate and align increasingly capable AI.
 
-For more about my work, see [research](/research/), [bio and CV](/bio/), and our [group webpage and blog](https://www.minregret.com). For our alignment research, seminars, and opportunities, visit [Princeton AIAS](https://alignment.dais.princeton.edu/).
+See [research](/research/), [bio and CV](/bio/), and our [group webpage and blog](https://www.minregret.com); visit [Princeton AIAS](https://alignment.dais.princeton.edu/) for alignment research, seminars, and opportunities.
 
 <div style="clear: both;"></div>
 
@@ -18,9 +18,9 @@ For more about my work, see [research](/research/), [bio and CV](/bio/), and our
 
 ### Selected recent research
 
-- [Measuring Intelligence Beyond Human Scale](https://arxiv.org/abs/2607.07040) (SepaRank, 2026): evaluating models through challenges that distinguish other models.
-- [AI Alignment via Incentives and Correction](https://arxiv.org/abs/2605.01643) (2026): designing rewards for effective interaction between solvers and auditors.
-- [Universal Sequence Preconditioning](https://arxiv.org/abs/2502.06545) (2025): improving sequential prediction using polynomial preconditioning.
+- [Measuring Intelligence Beyond Human Scale](https://arxiv.org/abs/2607.07040) (SepaRank, 2026): evaluating models with challenges that distinguish other models.
+- [AI Alignment via Incentives and Correction](https://arxiv.org/abs/2605.01643) (2026): designing rewards for effective solver–auditor interaction.
+- [Universal Sequence Preconditioning](https://arxiv.org/abs/2502.06545) (2025): improving sequential prediction with polynomial preconditioning.
 - [SpectraLDS: Provable Distillation for Linear Dynamical Systems](https://arxiv.org/abs/2505.17868) (2025): distilling spectral representations into models with efficient inference.
 
 [All publications on Google Scholar](https://scholar.google.com/citations?user=LnhCGNMAAAAJ&hl=en&oi=ao) · [Most recent first](https://scholar.google.com/citations?hl=en&user=LnhCGNMAAAAJ&view_op=list_works&sortby=pubdate) · [Research overview](/research/)
@@ -45,4 +45,4 @@ For more about my work, see [research](/research/), [bio and CV](/bio/), and our
 
 ### Teaching
 
-Courses include Theoretical Machine Learning, AI Alignment and Safety, Computational Control Theory, and Introduction to Machine Learning. See the [teaching page](/teaching/) for course websites and semesters.
+Courses: Theoretical Machine Learning, AI Alignment and Safety, Computational Control Theory, and Introduction to Machine Learning. [Course websites and semesters](/teaching/).

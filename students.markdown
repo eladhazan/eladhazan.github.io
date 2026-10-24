@@ -4,15 +4,15 @@ title: Students
 permalink: /students/
 ---
 
-See also our [group webpage and blog](https://www.minregret.com), the [Hazan Lab team](https://www.minregret.com/people/), and the [Theoretical Machine Learning group at Princeton](https://mltheory.cs.princeton.edu/).
+[Group webpage and blog](https://www.minregret.com) · [Hazan Lab team](https://www.minregret.com/people/) · [Theoretical Machine Learning group at Princeton](https://mltheory.cs.princeton.edu/)
 
-## Current students
+## Current PhD students at Princeton University
 
-- [Anand Brahmbhatt](https://anand-10-prog.github.io/) — PhD student at Princeton University
-- [Angelos Assos](https://angelosassos.github.io/) — PhD student at Princeton University
-- [Gon Buzaglo](https://www.buzaglo.me/) — PhD student at Princeton University
-- [Liane Galanti](https://lianegalanti.github.io/) — PhD student at Princeton University
-- [Rohit Agarwal](https://rohaga.github.io/) — PhD student at Princeton University
+- [Anand Brahmbhatt](https://anand-10-prog.github.io/)
+- [Angelos Assos](https://angelosassos.github.io/)
+- [Gon Buzaglo](https://www.buzaglo.me/)
+- [Liane Galanti](https://lianegalanti.github.io/)
+- [Rohit Agarwal](https://rohaga.github.io/)
 
 ## Former students and postdocs
 
