@@ -30,7 +30,7 @@ See [research](/research/), [bio and CV](/bio/), and our [group webpage and blog
 
 - [Introduction to Online Convex Optimization](https://sites.google.com/view/intro-oco/)
 - [Optimization for Machine Learning](https://arxiv.org/abs/1909.03550)
-- [Introduction to Online Nonstochastic Control](https://sites.google.com/view/online-nonstochastic-control/home) · [ICML 2020 tutorial](https://sites.google.com/view/nsc-tutorial/home)
+- [Introduction to Online Nonstochastic Control](https://sites.google.com/view/online-nonstochastic-control/home)
 
 ---
 
@@ -44,4 +44,4 @@ See [research](/research/), [bio and CV](/bio/), and our [group webpage and blog
 
 ### Teaching
 
-Courses: Theoretical Machine Learning, AI Alignment and Safety, Computational Control Theory, and Introduction to Machine Learning. [Course websites and semesters](/teaching/).
+Courses: Theoretical Machine Learning, AI Alignment and Safety, Computational Control Theory, and Introduction to Machine Learning. [Course websites, semesters, and tutorials](/teaching/).
