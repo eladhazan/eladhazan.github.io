@@ -6,22 +6,20 @@ permalink: /research/
 
 I develop algorithms and mathematical foundations for machine learning, optimization, and control. I co-developed [AdaGrad](https://jmlr.org/papers/v12/duchi11a.html), which helped establish adaptive gradient methods in machine learning. A growing focus is evaluating and aligning AI systems that may surpass their human supervisors.
 
-## Current research
-
-### AI evaluation and alignment
+## AI evaluation and alignment
 
 At [Princeton AI Alignment and Safety (AIAS)](https://alignment.dais.princeton.edu/), we use game theory, mechanism design, and online learning to study how to measure capabilities beyond human expertise and design incentives for reliable behavior and effective oversight.
 
 - [Measuring Intelligence Beyond Human Scale (SepaRank)](https://arxiv.org/abs/2607.07040). SepaRank rewards models for proposing questions that distinguish other models, enabling relative evaluation without a fixed human-authored benchmark or a semantic judge.
 - [AI Alignment via Incentives and Correction](https://arxiv.org/abs/2605.01643). We study how rewards shape solver–auditor interactions, adapting rewards with bandit methods from feedback on their joint behavior.
 
-### Online learning and optimization
+## Online learning and optimization
 
 I develop computationally efficient algorithms that learn from sequential feedback and adapt to changing environments. Themes include regret minimization, adaptive optimization, and bandit feedback, connecting mathematical optimization to game theory, reinforcement learning, and learning system design. See [Introduction to Online Convex Optimization](https://sites.google.com/view/intro-oco/) for an overview and the selected contributions below.
 
-### Control and sequence modeling
+## Control and sequence modeling
 
-We use online learning and spectral methods to learn and control dynamical systems and efficiently model long sequences, connecting provable prediction guarantees with memory compression and fast generation.
+We develop [online nonstochastic control](https://sites.google.com/view/online-nonstochastic-control/home), using regret minimization to handle adversarial disturbances and changing costs. Our online learning and spectral methods learn and control dynamical systems and efficiently model long sequences, with provable prediction guarantees, memory compression, and fast generation.
 
 - [Universal Sequence Preconditioning](https://arxiv.org/abs/2502.06545) uses orthogonal polynomials to reduce the memory needed for prediction. Its [second-order extension](https://arxiv.org/abs/2605.08390) gives dimension-free, polylogarithmic regret for marginally stable linear systems under a spectral restriction.
 - [Universal Learning of Nonlinear Dynamics](https://arxiv.org/abs/2508.11990) develops observation-based spectral filtering to predict nonlinear systems, with guarantees governed by a quantitative notion of learnability.
