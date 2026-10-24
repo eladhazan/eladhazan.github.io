@@ -37,8 +37,11 @@ See [research](/research/), [bio and CV](/bio/), and our [group webpage and blog
 ### Selected talks
 
 - [The Economics of AI Alignment — Part 1](https://alignment.dais.princeton.edu/events/2026/economics-ai-alignment-part-1), Princeton AIAS, October 9, 2026 · [Video](https://drive.google.com/file/d/1zLdWSYBJsyG_6fD-kskWiykbgklpE9RK/view)
+- [Provably Efficient Learning in Nonlinear Dynamical Systems via Spectral Transformers](https://lids.mit.edu/events/lids-seminar-elad-hazan), MIT LIDS, March 10, 2026 · [Video](https://www.youtube.com/watch?v=zHxz11xtZ2I)
 - [Optimization for Machine Learning](https://youtu.be/f0qQsz4-o68)
 - [The Nonstochastic Control Problem](https://www.youtube.com/watch?v=dmWXHmjVxcI)
+
+More talks and lectures on my [YouTube channel](https://www.youtube.com/@hazanprinceton).
 
 ---
 
