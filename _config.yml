@@ -20,10 +20,13 @@
 
 title: Elad Hazan
 email: ehazan@princeton.edu
-# description: >- # this means to ignore newlines until "baseurl:"
-  
+description: >-
+  Elad Hazan is a professor of computer science at Princeton University and director
+  of Princeton AI Alignment and Safety. Research in machine learning, optimization,
+  control, and AI evaluation and alignment.
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.ehazan.com"
 
 minima:
   social_links:
@@ -39,6 +42,11 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - bio.markdown
+  - research.markdown
+  - students.markdown
+  - teaching.markdown
+  - positions.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -59,3 +67,4 @@ header_pages:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+

@@ -10,15 +10,17 @@ His contributions include co-developing AdaGrad, an adaptive optimization algori
 
 Hazan is an ACM Fellow and a recipient of the Bell Labs Prize and two IBM Goldberg Best Paper Awards. His research has also received support through a European Research Council grant, a Marie Curie fellowship, and a Google Research Award.
 
-Research highlights: 
-- [Online Newton Step algorithm - first logarithmic regret for online convex optimization](https://link.springer.com/article/10.1007/s10994-007-5016-8)  
+### Research highlights
+
+- [Online Newton Step: logarithmic regret for exp-concave losses](https://link.springer.com/article/10.1007/s10994-007-5016-8)  
 - [First sublinear time algorithms for machine learning](https://arxiv.org/abs/1010.4408) and for [semi-definite programming](https://link.springer.com/article/10.1007/s10107-015-0932-z)
-- [AdaGrad - first adaptive gradient algorithm](https://dl.acm.org/doi/10.5555/1953048.2021068)  
+- [AdaGrad: adaptive gradient methods](https://dl.acm.org/doi/10.5555/1953048.2021068)  
 - [Provable low-rank fast and simple SDP solver](https://link.springer.com/chapter/10.1007/978-3-540-78773-0_27)  
-- [First linearly converging projection-free (Frank-Wolfe) algorithm](https://arxiv.org/abs/1301.4666)  
-- [Introduction of Non-stochastic Control Theory](https://sites.google.com/view/cos59x-cct/lecture-notes?authuser=0)  
+- [Linearly convergent conditional gradients for smooth, strongly convex optimization over polytopes](https://arxiv.org/abs/1301.4666)  
+- [Introduction of Non-stochastic Control Theory](https://sites.google.com/view/online-nonstochastic-control/home)  
 
 
 More details and links to the relevant papers are in [this page](https://www.minregret.com).
 
-Link to [full CV.](/cv-eh.pdf)
+[Download full CV (PDF)](/cv-eh.pdf)
+

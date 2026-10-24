@@ -1,48 +1,48 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
-<p style="float: left; padding-right: 15px"><img src="elad.png" alt="headshot" width="210" /></p>
+
+<p style="float: left; padding-right: 15px"><img src="elad.png" alt="Elad Hazan" width="210" /></p>
 
 Professor of [Computer Science, Princeton University](https://www.cs.princeton.edu/) \
-Director of AI Alignment and Safety, Princeton University \
-Director and co-founder, [Google AI Princeton](https://sites.google.com/view/gbrainprinceton/home)
+Director of [Princeton AI Alignment and Safety (AIAS)](https://alignment.dais.princeton.edu/) \
+Co-founder, [Google AI Princeton](https://sites.google.com/view/gbrainprinceton/home)
 
-I study the automation of the learning mechanism and its efficient algorithmic implementation. This study centers in the field of machine learning and touches upon mathematical optimization, game theory, statistics and computational complexity. For more details, see [research](/research/) and [bio](/bio/) pages.
-For more information about my group and our research, [see our group webpage](https://minregret.com). 
-For more information about Google Brain Research, and the activity of this lab, please see [this webpage](https://sites.google.com/view/gbrainprinceton/home). 
+I study the foundations of machine learning, optimization, and control. My work develops algorithms that learn from experience, make decisions under uncertainty, and predict and control dynamical systems. I am also interested in how to evaluate and align increasingly capable AI systems, using ideas from online learning, game theory, and mechanism design.
 
----------------------------------
+For more about my work, see [research](/research/), [bio and CV](/bio/), and our [group webpage and blog](https://www.minregret.com). For our alignment research, seminars, and opportunities, visit [Princeton AIAS](https://alignment.dais.princeton.edu/).
 
-### **Books/Surveys**
+<div style="clear: both;"></div>
 
-- [Introduction to Online Convex Optimization](https://sites.google.com/view/intro-oco/)  
-- [Optimization for Machine Learning](https://arxiv.org/abs/1909.03550)  
-- [Introduction to Online Nonstochastic Control](https://sites.google.com/view/online-nonstochastic-control/home) , see also [ICML 2020 Tutorial](https://sites.google.com/view/nsc-tutorial/home) 
+---
 
----------------------------------
+### Selected recent research
 
+- [Measuring Intelligence Beyond Human Scale](https://arxiv.org/abs/2607.07040) (SepaRank, 2026): evaluating models through challenges that distinguish other models.
+- [AI Alignment via Incentives and Correction](https://arxiv.org/abs/2605.01643) (2026): designing rewards for effective interaction between solvers and auditors.
+- [Universal Sequence Preconditioning](https://arxiv.org/abs/2502.06545) (2025): improving sequential prediction using polynomial preconditioning.
+- [SpectraLDS: Provable Distillation for Linear Dynamical Systems](https://arxiv.org/abs/2505.17868) (2025): distilling spectral representations into models with efficient inference.
 
-### **Publications/Preprints**
+[All publications on Google Scholar](https://scholar.google.com/citations?user=LnhCGNMAAAAJ&hl=en&oi=ao) · [Most recent first](https://scholar.google.com/citations?hl=en&user=LnhCGNMAAAAJ&view_op=list_works&sortby=pubdate) · [Research overview](/research/)
 
-- [Google Scholar page for all publcations](https://scholar.google.com/citations?user=LnhCGNMAAAAJ&hl=en&oi=ao)   [(Same but chronological order)](https://scholar.google.com/citations?hl=en&user=LnhCGNMAAAAJ&view_op=list_works&sortby=pubdate)  
+---
 
+### Books and surveys
 
----------------------------------
+- [Introduction to Online Convex Optimization](https://sites.google.com/view/intro-oco/)
+- [Optimization for Machine Learning](https://arxiv.org/abs/1909.03550)
+- [Introduction to Online Nonstochastic Control](https://sites.google.com/view/online-nonstochastic-control/home) · [ICML 2020 tutorial](https://sites.google.com/view/nsc-tutorial/home)
 
-### **Talks**
+---
 
-- [Optimization for Machine Learning](https://youtu.be/f0qQsz4-o68)  
-- [The non-stochastic control problem](https://www.youtube.com/watch?v=dmWXHmjVxcI&feature=emb_err_woyt&ab_channel=ControlMeetsLearning)  
+### Selected talks
 
+- [The Economics of AI Alignment — Part 1](https://alignment.dais.princeton.edu/events/2026/economics-ai-alignment-part-1), Princeton AIAS, October 9, 2026 · [Video](https://drive.google.com/file/d/1zLdWSYBJsyG_6fD-kskWiykbgklpE9RK/view)
+- [Optimization for Machine Learning](https://youtu.be/f0qQsz4-o68)
+- [The Nonstochastic Control Problem](https://www.youtube.com/watch?v=dmWXHmjVxcI)
 
-----------------------------------
+---
 
-### **Teaching**
+### Teaching
 
-- [Theoretical Machine Learning (COS511)](https://sites.google.com/view/cos-511-spring-2026/home)   
-- [AI Alignment & Safety (COS 597Q)](https://sites.google.com/view/cos598aisafety/)
-- [Computational Control Theory](https://sites.google.com/view/cos59x-cct/)  
-- [Introduction to Machine Learning (COS 324)](https://www.cs.princeton.edu/courses/archive/spring21/cos324/)
+Courses include Theoretical Machine Learning, AI Alignment and Safety, Computational Control Theory, and Introduction to Machine Learning. See the [teaching page](/teaching/) for course websites and semesters.
