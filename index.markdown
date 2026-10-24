@@ -18,9 +18,9 @@ See [research](/research/), [bio and CV](/bio/), and our [group webpage and blog
 
 ### Selected recent research
 
-- [Measuring Intelligence Beyond Human Scale](https://arxiv.org/abs/2607.07040) (SepaRank, 2026): evaluating models with challenges that distinguish other models.
-- [AI Alignment via Incentives and Correction](https://arxiv.org/abs/2605.01643) (2026): designing rewards for effective solver–auditor interaction.
-- [Universal Sequence Preconditioning](https://arxiv.org/abs/2502.06545) (2025): improving sequential prediction with polynomial preconditioning.
+- [Measuring Intelligence Beyond Human Scale](https://arxiv.org/abs/2607.07040)
+- [AI Alignment via Incentives and Correction](https://arxiv.org/abs/2605.01643)
+- [Universal Sequence Preconditioning](https://arxiv.org/abs/2502.06545)
 
 [All publications on Google Scholar](https://scholar.google.com/citations?user=LnhCGNMAAAAJ&hl=en&oi=ao) · [Most recent first](https://scholar.google.com/citations?hl=en&user=LnhCGNMAAAAJ&view_op=list_works&sortby=pubdate) · [Research overview](/research/)
 
