@@ -24,7 +24,6 @@ I develop computationally efficient algorithms that learn from sequential feedba
 We use online learning and spectral methods to learn and control dynamical systems and efficiently model long sequences, connecting provable prediction guarantees with memory compression and fast generation.
 
 - [Universal Sequence Preconditioning](https://arxiv.org/abs/2502.06545) uses orthogonal polynomials to reduce the memory needed for prediction. Its [second-order extension](https://arxiv.org/abs/2605.08390) gives dimension-free, polylogarithmic regret for marginally stable linear systems under a spectral restriction.
-- [SpectraLDS](https://arxiv.org/abs/2505.17868) distills spectral predictors into recurrent linear dynamical systems, with guarantees for symmetric dynamics and per-token inference costs that do not grow with sequence length.
 - [Universal Learning of Nonlinear Dynamics](https://arxiv.org/abs/2508.11990) develops observation-based spectral filtering to predict nonlinear systems, with guarantees governed by a quantitative notion of learnability.
 - [Spectral Transformers](https://sites.google.com/view/gbrainprinceton/projects/spectral-transformers) applies these ideas to neural sequence architectures; [FutureFill](https://arxiv.org/abs/2410.03766) enables fast generation from convolutional sequence models.
 
