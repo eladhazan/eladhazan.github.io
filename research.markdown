@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I develop algorithms and mathematical foundations for machine learning, optimization, and control, increasingly focusing on evaluating and aligning AI systems that may surpass their human supervisors.
+I develop algorithms and mathematical foundations for machine learning, optimization, and control. I co-developed [AdaGrad](https://jmlr.org/papers/v12/duchi11a.html), which helped establish adaptive gradient methods in machine learning. A growing focus is evaluating and aligning AI systems that may surpass their human supervisors.
 
 ## Current research
 
@@ -17,7 +17,7 @@ At [Princeton AI Alignment and Safety (AIAS)](https://alignment.dais.princeton.e
 
 ### Online learning and optimization
 
-I develop computationally efficient algorithms that learn from sequential feedback and adapt to changing environments. Themes include regret minimization, adaptive optimization, and bandit feedback, connecting mathematical optimization to game theory, reinforcement learning, and learning system design. See [Introduction to Online Convex Optimization](https://sites.google.com/view/intro-oco/) for an overview and the foundational contributions below for selected results.
+I develop computationally efficient algorithms that learn from sequential feedback and adapt to changing environments. Themes include regret minimization, adaptive optimization, and bandit feedback, connecting mathematical optimization to game theory, reinforcement learning, and learning system design. See [Introduction to Online Convex Optimization](https://sites.google.com/view/intro-oco/) for an overview and the selected contributions below.
 
 ### Control and sequence modeling
 
@@ -27,10 +27,10 @@ We use online learning and spectral methods to learn and control dynamical syste
 - [Universal Learning of Nonlinear Dynamics](https://arxiv.org/abs/2508.11990) develops observation-based spectral filtering to predict nonlinear systems, with guarantees governed by a quantitative notion of learnability.
 - [Spectral Transformers](https://sites.google.com/view/gbrainprinceton/projects/spectral-transformers) applies these ideas to neural sequence architectures; [FutureFill](https://arxiv.org/abs/2410.03766) enables fast generation from convolutional sequence models.
 
-## Selected foundational contributions
+## Selected contributions
 
 - **[AdaGrad and adaptive regularization](https://jmlr.org/papers/v12/duchi11a.html)**  
-  AdaGrad adapts updates to the geometry of past gradients. This work introduced an adaptive regularization framework with regret guarantees, helping establish adaptive gradient methods as a central tool in machine learning. See [this blog post](https://www.minregret.com/2023/05/15/meta-optimization.html) for background.
+  AdaGrad adapts updates to the geometry of past gradients. This work introduced an adaptive regularization framework with regret guarantees. See [this blog post](https://www.minregret.com/2023/05/15/meta-optimization.html) for background.
 
 - **[Online Newton Step and logarithmic regret](https://link.springer.com/article/10.1007/s10994-007-5016-8)**  
   Connecting optimization curvature to fast online learning rates, Online Newton Step achieves logarithmic regret for exp-concave losses. It provides an efficient online counterpart of Newton's method and extends ideas from universal portfolio selection.
