@@ -12,7 +12,7 @@ See the [postdoctoral announcement](https://apply.interfolio.com/192161) for det
 
 ### Theoretical machine learning postdocs
 
-Find opportunities at Princeton University and the Institute for Advanced Study on the [Theoretical Machine Learning group's positions page](https://mltheory.cs.princeton.edu/positions/).
+For theoretical machine learning postdoctoral opportunities, see [Princeton Computer Science openings](https://www.cs.princeton.edu/jobs).
 
 ### Prospective Ph.D. students
 

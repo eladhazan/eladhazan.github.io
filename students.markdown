@@ -4,7 +4,7 @@ title: Students
 permalink: /students/
 ---
 
-[Group webpage and blog](https://www.minregret.com) · [Hazan Lab team](https://www.minregret.com/people/) · [Theoretical Machine Learning group at Princeton](https://mltheory.cs.princeton.edu/)
+[Group webpage and blog](https://www.minregret.com) · [Hazan Lab team](https://www.minregret.com/people/)
 
 ## Current PhD students at Princeton University
 
