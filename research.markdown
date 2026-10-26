@@ -30,21 +30,21 @@ We develop [online nonstochastic control](https://sites.google.com/view/online-n
 ## Selected contributions
 
 - **[AdaGrad and adaptive regularization](https://jmlr.org/papers/v12/duchi11a.html)**  
-  Adapting updates to past gradient geometry, with regret guarantees ([background](https://www.minregret.com/2023/05/15/meta-optimization.html)).
+  AdaGrad adapts updates to the geometry of past gradients. This work introduced an adaptive regularization framework with regret guarantees. See [this blog post](https://www.minregret.com/2023/05/15/meta-optimization.html) for background.
 
 - **[Online Newton Step and logarithmic regret](https://link.springer.com/article/10.1007/s10994-007-5016-8)**  
-  An efficient online Newton method achieving logarithmic regret for exp-concave losses.
+  Connecting optimization curvature to fast online learning rates, Online Newton Step achieves logarithmic regret for exp-concave losses. It provides an efficient online counterpart of Newton's method and extends ideas from universal portfolio selection.
 
 - **[Sublinear-time optimization for machine learning](https://arxiv.org/abs/1010.4408) and [semidefinite programming](https://link.springer.com/article/10.1007/s10107-015-0932-z)**  
-  Approximate solutions to classification, minimum enclosing ball, and certain semidefinite problems in less time than reading the full input.
+  Using randomized sampling and online learning, these algorithms approximately solve problems including linear classification, minimum enclosing balls, and a class of semidefinite programs in less time than reading the full input.
 
 - **[Sparse approximate solutions to semidefinite programs](https://link.springer.com/chapter/10.1007/978-3-540-78773-0_27)**  
-  A simple algorithm constructing low-rank approximate solutions to large semidefinite programs.
+  Addressing the computational cost of large-scale semidefinite optimization, this simple algorithm constructs low-rank approximate solutions with efficient representations.
 
 - **[Linearly convergent projection-free optimization](https://arxiv.org/abs/1301.4666)**  
-  Linear convergence for smooth, strongly convex objectives over polyhedral sets, using one linear optimization step per iteration.
+  Frank-Wolfe methods replace expensive projections with linear optimization. This method achieves linear convergence for smooth, strongly convex objectives over polyhedral sets with one linear optimization step per iteration. Iteration counts grow logarithmically with inverse target accuracy and also depend on the objective and domain geometry.
 
 - **[Online nonstochastic control](https://sites.google.com/view/online-nonstochastic-control/home)**  
-  Learning disturbance-based policies under adversarial disturbances and changing costs, with regret guarantees against a benchmark policy class ([book](https://arxiv.org/abs/2211.09619)).
+  Under adversarial disturbances and changing costs, this framework uses regret minimization to learn disturbance-based control policies, competing with a benchmark policy class in hindsight. See [Introduction to Online Control](https://arxiv.org/abs/2211.09619) for theory and algorithms.
 
 See [Google Scholar](https://scholar.google.com/citations?user=LnhCGNMAAAAJ&hl=en&view_op=list_works&sortby=pubdate) for all publications and [our group webpage](https://www.minregret.com) for research updates.
