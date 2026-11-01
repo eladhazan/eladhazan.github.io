@@ -8,7 +8,7 @@ description: COS 460 at Princeton University. Technical foundations of AI safety
 **COS 460 · Princeton University**  
 Instructor: [Elad Hazan](/)
 
-How can we build and evaluate AI systems whose capabilities may approach or exceed those of their human designers? This advanced undergraduate course studies technical foundations of AI safety and alignment through machine learning, algorithms, optimization, game theory, control, and mechanism design.
+Can we build safe and aligned AI systems on rigorous mathematical foundations? This advanced undergraduate course studies AI risks and safeguards, algorithms and optimization-based methods for alignment, multi-agent systems, scalable oversight, evaluation beyond human capability, agency, accountability, and economic consequences.
 
 ## Current offering
 
