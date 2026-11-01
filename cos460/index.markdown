@@ -14,8 +14,6 @@ Can we build safe and aligned AI systems on rigorous mathematical foundations? T
 
 ### [Spring 2027 →](/cos460/spring2027/)
 
-Course overview, preliminary schedule, readings, assessment, and project guidelines. Meeting times and location will be announced.
-
 Prerequisite: COS 324, Introduction to Machine Learning, or equivalent preparation. The course is intended primarily for juniors and seniors.
 
 ## Related courses
