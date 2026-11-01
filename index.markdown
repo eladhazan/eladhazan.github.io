@@ -36,7 +36,7 @@ See [research](/research/), [bio and CV](/bio/), and our [group webpage and blog
 
 ### Selected talks
 
-- [Provably Efficient Learning in Nonlinear Dynamical Systems via Spectral Transformers](https://lids.mit.edu/events/lids-seminar-elad-hazan), MIT LIDS, March 10, 2026 · [Video](https://www.youtube.com/watch?v=zHxz11xtZ2I)
+- [Provably Efficient Learning in Nonlinear Dynamical Systems via Spectral Transformers](https://lids.mit.edu/events/lids-seminar-elad-hazan)
 - [Optimization for Machine Learning](https://youtu.be/f0qQsz4-o68)
 - [The Nonstochastic Control Problem](https://www.youtube.com/watch?v=dmWXHmjVxcI)
 
