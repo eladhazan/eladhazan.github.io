@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: course
 title: AI Safety and Alignment
 permalink: /cos460/
 description: COS 460 at Princeton University. Technical foundations of AI safety, evaluation, oversight, and mechanism design.
@@ -21,5 +21,3 @@ Prerequisite: COS 324, Introduction to Machine Learning, or equivalent preparati
 ## Related courses
 
 [COS 597Q: AI Safety & Alignment, Fall 2023](https://sites.google.com/view/cos598aisafety/) — earlier graduate seminar materials.
-
-[All teaching](/teaching/) · [Princeton AI Alignment and Safety](https://alignment.dais.princeton.edu/)

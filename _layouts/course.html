@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} | COS 460</title>
+  <meta name="description" content="{{ page.description | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+</head>
+<body>
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      <article class="post">
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+        <div class="post-content">{{ content }}</div>
+      </article>
+    </div>
+  </main>
+</body>
+</html>
