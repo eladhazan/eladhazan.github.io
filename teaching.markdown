@@ -8,6 +8,8 @@ Selected materials from my courses and tutorials in machine learning, optimizati
 
 ### Current and upcoming offerings
 
+- [AI Safety and Alignment (COS 460)](/cos460/) — Spring 2027. Technical foundations of AI evaluation, scalable oversight, incentives, and mechanism design.
+
 See the department's [course schedule](https://www.cs.princeton.edu/courses/schedule) and [planned offerings for 2026–27](https://www.cs.princeton.edu/ugrad/planned-course-offerings-2026-27).
 
 ### Previous courses

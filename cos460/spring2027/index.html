@@ -1,0 +1,180 @@
+---
+layout: page
+title: AI Safety and Alignment
+permalink: /cos460/spring2027/
+description: COS 460, Spring 2027, Princeton University. Course information, preliminary schedule, readings, assignments, and projects.
+---
+<style>
+  .course { --accent: #94501c; --line: #dedbd6; }
+  .course .term { color: #65615c; font-size: 1.05rem; margin-top: -12px; }
+  .course .notice { border-left: 3px solid var(--accent); background: #faf6ef; padding: 12px 16px; margin: 24px 0; }
+  .course .notice p { margin: 0; }
+  .course nav { display: flex; flex-wrap: wrap; gap: 8px 22px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 13px 0; margin: 24px 0 30px; }
+  .course nav a { font-size: .95rem; }
+  .course h2 { margin-top: 38px; padding-top: 5px; scroll-margin-top: 18px; }
+  .course h3 { margin-top: 24px; font-size: 1.2rem; }
+  .course .logistics { display: grid; grid-template-columns: 130px 1fr; gap: 9px 20px; margin: 22px 0; }
+  .course .logistics dt { font-weight: 600; }
+  .course .logistics dd { margin: 0; }
+  .course .schedule { list-style: none; padding: 0; margin: 22px 0; }
+  .course .schedule li { display: grid; grid-template-columns: 110px 1fr; gap: 22px; padding: 19px 0; border-top: 1px solid var(--line); }
+  .course .schedule .week { color: #65615c; font-size: .9rem; line-height: 1.6; }
+  .course .schedule .week strong { color: #38332e; font-size: 1rem; }
+  .course .schedule h3 { font-size: 1.08rem; line-height: 1.4; margin: 0 0 6px; }
+  .course .schedule p { margin: 0 0 7px; }
+  .course .schedule .due { font-size: .9rem; color: #65615c; margin-bottom: 0; }
+  .course .schedule .break { background: #faf9f6; }
+  .course .grade-table { width: 100%; font-size: .96rem; }
+  .course .grade-table th:last-child, .course .grade-table td:last-child { text-align: right; white-space: nowrap; width: 70px; }
+  .course details { padding: 14px 0; border-top: 1px solid var(--line); }
+  .course summary { cursor: pointer; font-weight: 600; }
+  .course details ul, .course details p { margin-top: 12px; }
+  .course li { margin-bottom: 6px; }
+  .course .footnote { color: #65615c; font-size: .9rem; margin-top: 36px; padding-top: 16px; border-top: 1px solid var(--line); }
+  @media (max-width: 520px) {
+    .course .logistics { grid-template-columns: 1fr; gap: 3px; }
+    .course .logistics dd { margin-bottom: 10px; }
+    .course .schedule li { grid-template-columns: 1fr; gap: 7px; }
+    .course .schedule .week br { display: none; }
+    .course .schedule .week strong { margin-right: 10px; }
+    .course .grade-table th, .course .grade-table td { padding: 9px; }
+  }
+  @media print {
+    .site-header, .site-footer, .course nav { display: none; }
+    .course .schedule li { break-inside: avoid; }
+    .course a { color: inherit; }
+  }
+</style>
+
+<div class="course">
+  <p class="term">COS 460 · Spring 2027 · Princeton University</p>
+  <p>How can we build and evaluate AI systems whose capabilities may approach or exceed those of their human designers?</p>
+  <div class="notice"><p><strong>Preliminary course website.</strong> The schedule and assessment below are based on the revised course syllabus. Details may be updated before the semester begins. Meeting times, location, teaching staff, and office hours will be announced.</p></div>
+  <nav aria-label="Course sections">
+    <a href="#overview">Overview</a>
+    <a href="#schedule">Schedule</a>
+    <a href="#readings">Readings</a>
+    <a href="#assessment">Assessment</a>
+    <a href="#project">Project</a>
+    <a href="#policies">Policies</a>
+  </nav>
+
+  <h2 id="overview">Course overview</h2>
+  <p>This advanced undergraduate course develops technical foundations for AI safety and alignment through machine learning, algorithms, optimization, game theory, control, scalable oversight, adversarial evaluation, and mechanism design.</p>
+  <p>We study advanced AI both as a learner and as part of a system of interacting agents: solvers, auditors, proposers, judges, and human overseers. Their incentives and information shape the outcome. Philosophical, ethical, and economic questions provide context, while the central emphasis remains technical and mathematical.</p>
+  <dl class="logistics">
+    <dt>Instructor</dt><dd><a href="/">Elad Hazan</a> · <a href="mailto:ehazan@princeton.edu">ehazan@princeton.edu</a></dd>
+    <dt>Meetings</dt><dd>Two 80-minute lectures per week; days, time, and location to be announced.</dd>
+    <dt>Office hours</dt><dd>To be announced.</dd>
+    <dt>Prerequisite</dt><dd>COS 324, Introduction to Machine Learning, or equivalent preparation.</dd>
+    <dt>Audience</dt><dd>Primarily juniors and seniors. Sophomores and graduate students may enroll if space permits.</dd>
+    <dt>Format</dt><dd>Lectures, technical discussions, computational demonstrations, and a team project.</dd>
+    <dt>Final assessment</dt><dd>Project paper and reproducible artifact or theory appendix. No final examination.</dd>
+  </dl>
+  <p>By the end of the course, students should be able to formulate evaluation and alignment problems mathematically, analyze incentives and strategic behavior, apply tools from learning and game theory, critically assess risk arguments, and develop an original project with clear assumptions, evidence, and limitations.</p>
+
+  <h2 id="schedule">Preliminary schedule</h2>
+  <p>Weekly topics and milestones follow the revised syllabus. Specific readings, lecture materials, and assignment instructions will be posted as they become available.</p>
+  <ol class="schedule">
+    <li><div class="week"><strong>Week 1</strong><br>Jan 25–29</div><div><h3>Introduction, history, and survey</h3><p>The control and alignment problems; superintelligence and intelligence explosion; major risk arguments; a survey of technical approaches.</p><p class="due">Course orientation · Project directions introduced</p></div></li>
+    <li><div class="week"><strong>Week 2</strong><br>Feb 1–5</div><div><h3>Evaluating intelligence beyond human scale</h3><p>Limits of human evaluation; benchmark saturation; adversarial psychometrics; model-generated evaluation; SepaRank and separating questions.</p><p class="due">Problem Set 1 assigned · Reading response 1</p></div></li>
+    <li><div class="week"><strong>Week 3</strong><br>Feb 8–12</div><div><h3>Debate, regret in large games, and rationality</h3><p>AI debate; regret minimization; oracle-efficient learning in large games; hidden games; strategic reasoning.</p><p class="due">Problem Set 1 due Feb 12 · Project idea submission</p></div></li>
+    <li><div class="week"><strong>Week 4</strong><br>Feb 15–19</div><div><h3>Multi-agent alignment and mechanism design</h3><p>Interacting strategic agents; solvers, auditors, proposers, judges, and overseers; incentives, information, and equilibrium.</p><p class="due">Problem Set 2 assigned · Project teams formed</p></div></li>
+    <li><div class="week"><strong>Week 5</strong><br>Feb 22–26</div><div><h3>Evolutionary game theory and emergent behavior</h3><p>Replicator dynamics; population games; equilibrium selection; cooperation, competition, and the evolution of strategies and norms.</p><p class="due">Problem Set 2 due Feb 26 · Reading response 2</p></div></li>
+    <li><div class="week"><strong>Week 6</strong><br>Mar 1–5</div><div><h3>RLHF, objectives, and learned goals</h3><p>Reinforcement learning and contextual bandits; preference learning and reward modeling; KL-regularized optimization and direct preference optimization; reward hacking, Goodhart effects, goal misgeneralization, and orthogonality.</p><p class="due">Project proposal due Mar 5</p></div></li>
+    <li class="break"><div class="week"><strong>Spring recess</strong><br>Mar 6–14</div><div><h3>No classes</h3><p class="due">No assignments due</p></div></li>
+    <li><div class="week"><strong>Week 7</strong><br>Mar 15–19</div><div><h3>Adversarial robustness, interpretability, and deception</h3><p>Threat models, jailbreaks, red teaming, latent knowledge, interpretability, deceptive behavior, deployment monitoring, and alignment faking.</p><p class="due">Problem Set 3 assigned · Reading response 3</p></div></li>
+    <li><div class="week"><strong>Week 8</strong><br>Mar 22–26</div><div><h3>Scalable oversight and weak-to-strong evaluation</h3><p>Amplification, recursive supervision, weak judges, model-assisted oversight, and verification beyond human expertise.</p><p class="due">Problem Set 3 due Mar 26 · Problem Set 4 assigned</p></div></li>
+    <li><div class="week"><strong>Week 9</strong><br>Mar 29–Apr 2</div><div><h3>Alignment via incentives and correction</h3><p>Solver–auditor pipelines, hidden audits, corrigibility, intervention, strategic manipulation, and equilibrium behavior under reward and audit design.</p><p class="due">Project checkpoint due Apr 2 · Peer feedback</p></div></li>
+    <li><div class="week"><strong>Week 10</strong><br>Apr 5–9</div><div><h3>Mind, agency, values, and accountability</h3><p>Consciousness, moral status, agency, free choice, responsibility gaps, and accountability for autonomous systems.</p><p class="due">Problem Set 4 due Apr 9 · Reading response 4</p></div></li>
+    <li><div class="week"><strong>Week 11</strong><br>Apr 12–16</div><div><h3>Economic consequences, governance, and synthesis</h3><p>Growth, labor and inequality, systemic risk, institutional design, competing views of AI risk, and connections across the course.</p><p class="due">Presentation materials due</p></div></li>
+    <li><div class="week"><strong>Week 12</strong><br>Apr 19–23</div><div><h3>Student project presentations</h3><p>Presentation and discussion of projects, connecting evaluation, oversight, incentives, learned objectives, and societal consequences.</p><p class="due">Project presentations · Peer feedback due Apr 23</p></div></li>
+  </ol>
+  <p><strong>End of term:</strong> Reading period Apr 26–May 4; Dean’s Date May 4. The final project paper and artifact are due on the Registrar-assigned date during the May 7–13 final assessment period.</p>
+
+  <h2 id="readings">Readings</h2>
+  <p>Representative readings from the syllabus are listed below. Students will generally be assigned one or two readings per week, with technical sections identified in advance. This is a reading pool, rather than a requirement to read every item.</p>
+  <h3>Evaluation and incentives</h3>
+  <ul>
+    <li>Han et al. (2026), <a href="https://arxiv.org/abs/2607.07040">Measuring Intelligence Beyond Human Scale</a> (SepaRank).</li>
+    <li>Agarwal et al. (2026), <a href="https://arxiv.org/abs/2605.01643">AI Alignment via Incentives and Correction</a>.</li>
+    <li>Chen et al. (2023), <em>Playing Large Games with Oracles and AI Debate</em>.</li>
+    <li>Buzaglo, Golowich, and Hazan (2025), <em>The Hidden Game Problem</em>.</li>
+    <li>Hazan, Qu, and Li (2026), <em>The Statistical Orthogonality Thesis</em>.</li>
+  </ul>
+  <details><summary>Foundations and competing perspectives</summary><ul>
+    <li>Nick Bostrom (2014), <em>Superintelligence: Paths, Dangers, Strategies</em>.</li>
+    <li>Stuart Russell (2019), <em>Human Compatible: Artificial Intelligence and the Problem of Control</em>.</li>
+    <li>Amodei et al. (2016), <em>Concrete Problems in AI Safety</em>.</li>
+    <li>Ngo, Chan, and Mindermann (2022), <em>The Alignment Problem from a Deep Learning Perspective</em>.</li>
+    <li>Bengio et al. (2026), <em>International AI Safety Report 2026</em>.</li>
+    <li>Narayanan and Kapoor (2025), <em>AI as Normal Technology</em>.</li>
+  </ul></details>
+  <details><summary>Post-training, specification, and learned goals</summary><ul>
+    <li>Christiano et al. (2017), <em>Deep Reinforcement Learning from Human Preferences</em>.</li>
+    <li>Ouyang et al. (2022), <em>Training Language Models to Follow Instructions with Human Feedback</em>.</li>
+    <li>Bai et al. (2022), <em>Constitutional AI: Harmlessness from AI Feedback</em>.</li>
+    <li>Casper et al. (2023), <em>Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback</em>.</li>
+    <li>Langosco et al. (2022), <em>Goal Misgeneralization in Deep Reinforcement Learning</em>.</li>
+  </ul></details>
+  <details><summary>Robustness, interpretability, and deception</summary><ul>
+    <li>Burns et al. (2022), <em>Discovering Latent Knowledge in Language Models Without Supervision</em>.</li>
+    <li>Zou et al. (2023), <em>Universal and Transferable Adversarial Attacks on Aligned Language Models</em>.</li>
+    <li>Greenblatt et al. (2024), <em>Alignment Faking in Large Language Models</em>.</li>
+  </ul></details>
+  <details><summary>Multi-agent alignment and scalable oversight</summary><ul>
+    <li>Hadfield-Menell et al. (2017), <em>The Off-Switch Game</em>.</li>
+    <li>Leike et al. (2018), <em>Scalable Agent Alignment via Reward Modeling</em>.</li>
+    <li>Irving, Christiano, and Amodei (2018), <em>AI Safety via Debate</em>.</li>
+    <li>Brown-Cohen, Irving, and Piliouras (2023), <em>Scalable AI Safety via Doubly-Efficient Debate</em>.</li>
+    <li>Kenton et al. (2024), <em>On Scalable Oversight with Weak LLMs Judging Strong LLMs</em>.</li>
+  </ul></details>
+  <details><summary>Mind, agency, accountability, and economic consequences</summary><ul>
+    <li>Bostrom (2012), <em>The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents</em>.</li>
+    <li>Chalmers (2023), <em>Could a Large Language Model Be Conscious?</em></li>
+    <li>Butlin et al. (2023), <em>Consciousness in Artificial Intelligence: Insights from the Science of Consciousness</em>.</li>
+    <li>Matthias (2004), <em>The Responsibility Gap: Ascribing Responsibility for the Actions of Learning Automata</em>.</li>
+    <li>Jones (2024), <em>The AI Dilemma: Growth versus Existential Risk</em>.</li>
+    <li>Davidson, Hadshar, and MacAskill (2025), <em>Three Types of Intelligence Explosion</em>.</li>
+    <li>Kokotajlo et al. (2025), <em>AI 2027</em>.</li>
+  </ul></details>
+
+  <h2 id="assessment">Assessment and assignments</h2>
+  <table class="grade-table">
+    <caption>Assessment weights from the revised syllabus</caption>
+    <thead><tr><th scope="col">Component</th><th scope="col">Weight</th></tr></thead>
+    <tbody>
+      <tr><td>Four problem sets</td><td>30%</td></tr>
+      <tr><td>Reading responses</td><td>10%</td></tr>
+      <tr><td>Participation and peer feedback</td><td>10%</td></tr>
+      <tr><td>Project proposal, milestones, and presentation</td><td>20%</td></tr>
+      <tr><td>Final project paper and artifact</td><td>30%</td></tr>
+    </tbody>
+  </table>
+  <p>Problem sets combine technical exercises, short proofs, and focused computational work. Reading responses are submitted before designated class meetings. Assignment handouts and submission instructions will be posted before release.</p>
+
+  <h2 id="project">Team project</h2>
+  <p>Teams of three or four will develop a concrete theorem, protocol, implementation, or careful empirical result. Possible directions include:</p>
+  <ul>
+    <li>Reproducing or extending model-generated evaluation and SepaRank.</li>
+    <li>Designing solver–auditor or debate mechanisms.</li>
+    <li>Analyzing incentives, equilibria, and strategic manipulation.</li>
+    <li>Evaluating weak-to-strong oversight.</li>
+    <li>Building bounded red-team and correction pipelines.</li>
+  </ul>
+  <p>Every project must include a reproducibility statement, a description of each team member’s contribution, and disclosure of generative-AI assistance. The final deliverable is a paper with a reproducible artifact or theory appendix.</p>
+
+  <h2 id="policies">Course policies</h2>
+  <details open><summary>Generative AI and academic integrity</summary>
+    <p>Generative AI may be used for brainstorming, coding assistance, editing, and experiments when an assignment permits it. Students remain responsible for every claim, proof, citation, and line of submitted code. All use must be disclosed, including the tool, purpose, and substantive contribution. Some assignments may prohibit generative-AI assistance to assess individual understanding.</p>
+    <p>Problem-set solutions and reading responses must be written independently unless an assignment states otherwise, and all collaborators must be acknowledged. Project teams must identify each member’s contribution. Students must follow Princeton’s <em>Rights, Rules, Responsibilities</em> and cite all sources, data, models, and external code.</p>
+  </details>
+  <details><summary>Attendance, late work, and reasonable exceptions</summary>
+    <p>Attendance and prepared participation are expected. Notify the instructor or teaching staff when illness, religious observance, disability-related needs, varsity athletics, or serious personal circumstances interfere with attendance or deadlines. Reasonable exceptions and extensions will be granted when appropriate.</p>
+    <p>Each student has three 24-hour late tokens for problem sets or reading responses; no more than two tokens may be used on one assignment. Beyond these tokens, work loses 10 percent per day unless an extension has been approved. Term-time work cannot be accepted after Dean’s Date, May 4, 2027.</p>
+  </details>
+  <details><summary>Accessibility</summary>
+    <p>Students who need accommodations should work with the Office of Disability Services and contact the instructor early in the term. Course materials will be provided in accessible formats. Students are encouraged to discuss barriers to participation.</p>
+  </details>
+  <p class="footnote"><a href="/cos460/">COS 460 home</a> · <a href="/teaching/">All teaching</a> · <a href="https://alignment.dais.princeton.edu/">Princeton AI Alignment and Safety</a><br>Spring 2027 · Preliminary version, November 2026</p>
+</div>
