@@ -4,8 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Selected materials from my courses and tutorials in machine learning, optimization, control, and AI safety and alignment.
-
 ### Current and upcoming offerings
 
 - [AI Safety and Alignment (COS 460)](/cos460/) — Spring 2027. Technical foundations of AI evaluation, scalable oversight, incentives, and mechanism design.
