@@ -4,9 +4,9 @@ title: Bio and CV
 permalink: /bio/
 ---
 
-Elad Hazan is a professor of computer science at Princeton University and director of [Princeton AI Alignment and Safety (AIAS)](https://alignment.dais.princeton.edu/). He studies the foundations of machine learning, optimization, and control, with a current focus on evaluating and aligning increasingly capable AI using online learning, game theory, and mechanism design.
+Elad Hazan is a professor of computer science at Princeton University and director of [Princeton AI Alignment and Safety (AIAS)](https://alignment.dais.princeton.edu/). His research explores the foundations of machine learning, optimization, and control, with a current focus on evaluating and aligning increasingly capable AI using online learning, game theory, and mechanism design.
 
-He co-developed AdaGrad, an adaptive optimization algorithm widely used in machine learning; developed sublinear-time convex optimization algorithms; and helped establish online nonstochastic control theory. He also co-founded Google AI Princeton.
+Hazan co-developed AdaGrad, an adaptive optimization algorithm widely used in machine learning; developed sublinear-time convex optimization algorithms; and helped establish online nonstochastic control theory. He also co-founded Google AI Princeton.
 
 An ACM Fellow, Hazan has received the Bell Labs Prize and two IBM Goldberg Best Paper Awards. His research has been supported by a European Research Council grant, a Marie Curie fellowship, and a Google Research Award.
 
