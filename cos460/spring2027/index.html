@@ -72,14 +72,14 @@ description: COS 460, Spring 2027, Princeton University. Course information, pre
   <h2 id="schedule">Tentative schedule</h2>
   <ol class="schedule">
     <li><div class="week"><strong>Week 1</strong><br>Jan 26 &amp; 28</div><div><h3>Introduction, history, and survey of AI safety and alignment</h3><p>The control and alignment problems; the history of AI safety; superintelligence and intelligence explosion; major risk arguments; a survey of technical approaches.</p><p class="due">Course orientation · Project directions introduced</p></div></li>
-    <li><div class="week"><strong>Week 2</strong><br>Feb 2 &amp; 4</div><div><h3>Evaluating intelligence beyond human scale</h3><p>Capabilities and limits of human evaluation; benchmark saturation; adversarial psychometrics; model-generated evaluation; SepaRank and separating questions.</p><p class="due">Problem Set 1 assigned</p></div></li>
+    <li><div class="week"><strong>Week 2</strong><br>Feb 2 &amp; 4</div><div><h3>Evaluating intelligence beyond human scale</h3><p>When benchmarks saturate, what evidence distinguishes two models? Compare SepaRank’s model-generated separating questions with METR’s estimate of the human task duration at which a model succeeds half the time. What claim about capability does each measure support?</p><p class="due">Problem Set 1 assigned</p></div></li>
     <li><div class="week"><strong>Week 3</strong><br>Feb 9 &amp; 11</div><div><h3>Debate, regret in large games, and rationality</h3><p>AI debate; regret minimization; oracle-efficient learning in large games; hidden games; strategic reasoning and rationality.</p><p class="due">Problem Set 1 due Feb 12 · Project idea submission</p></div></li>
-    <li><div class="week"><strong>Week 4</strong><br>Feb 16 &amp; 18</div><div><h3>Multi-agent alignment and mechanism design</h3><p>Interacting strategic agents; incentives, information, and equilibrium; solver–auditor mechanisms; hidden audits, strategic manipulation, and alignment through correction.</p><p class="due">Problem Set 2 assigned · Project teams formed</p></div></li>
+    <li><div class="week"><strong>Week 4</strong><br>Feb 16 &amp; 18</div><div><h3>Multi-agent alignment and mechanism design</h3><p>Interacting strategic agents; incentives, information, and equilibrium; solver–auditor mechanisms; hidden audits, strategic manipulation, and alignment through correction.</p><p>Audit exercise: If a solver’s confidence is calibrated overall, must it also be calibrated among answers the auditor approves?</p><p class="due">Problem Set 2 assigned · Project teams formed</p></div></li>
     <li><div class="week"><strong>Week 5</strong><br>Feb 23 &amp; 25</div><div><h3>Evolutionary game theory and emergent behavior</h3><p>Replicator dynamics; population games; equilibrium selection; cooperation and competition; the evolution of strategies and norms in populations of agents.</p><p class="due">Problem Set 2 due Feb 26</p></div></li>
-    <li><div class="week"><strong>Week 6</strong><br>Mar 2 &amp; 4</div><div><h3>RLHF and preference optimization</h3><p>Reinforcement learning and contextual-bandit foundations; preference learning and reward modeling; the RLHF pipeline; KL-regularized policy optimization; direct preference optimization; reward-model overoptimization.</p><p class="due">Project proposal due Mar 5</p></div></li>
+    <li><div class="week"><strong>Week 6</strong><br>Mar 2 &amp; 4</div><div><h3>RLHF, preference optimization, and social choice</h3><p><strong>March 2.</strong> From contextual bandits and preference data to reward models, KL-regularized policy optimization, and reward-model overoptimization.</p><p><strong>March 4.</strong> Derive the direct preference optimization loss. In the second half, use three annotators and three answers to construct a majority cycle. What can a scalar reward represent? Revisit Week 3’s no-regret self-play to study randomized choices.</p><p class="due">Project proposal due Mar 5</p></div></li>
     <li class="break"><div class="week"><strong>Spring recess</strong><br>Mar 6–14</div><div><h3>No classes</h3><p class="due">No assignments due</p></div></li>
-    <li><div class="week"><strong>Week 7</strong><br>Mar 16 &amp; 18</div><div><h3>Adversarial robustness, interpretability, and deception</h3><p>Threat models, jailbreaks, red teaming, latent knowledge, interpretability, deceptive behavior, deployment monitoring, defense in depth, and alignment faking.</p><p class="due">Problem Set 3 assigned</p></div></li>
-    <li><div class="week"><strong>Week 8</strong><br>Mar 23 &amp; 25</div><div><h3>Goals, generalization, and orthogonality</h3><p>Specified rewards versus intended objectives; Goodhart effects and reward hacking; goal misgeneralization; instrumental goals and power-seeking; the standard and statistical orthogonality theses.</p><p class="due">Problem Set 3 due Mar 26 · Problem Set 4 assigned</p></div></li>
+    <li><div class="week"><strong>Week 7</strong><br>Mar 16 &amp; 18</div><div><h3>Adversarial robustness, deception, and AI control</h3><p><strong>March 16.</strong> Threat models, red teaming, and jailbreaks. What can interpretability and latent-knowledge probes tell us about deceptive behavior and alignment faking?</p><p><strong>March 18.</strong> AI control case study. Design a monitoring protocol for a strong model, a weaker reviewer, and a limited trusted audit budget. Compare its predicted safety and usefulness with Greenblatt et al.’s experimental results, then revisit the solver–auditor incentives from Week 4.</p><p class="due">Problem Set 3 assigned</p></div></li>
+    <li><div class="week"><strong>Week 8</strong><br>Mar 23 &amp; 25</div><div><h3>Goals, generalization, and orthogonality</h3><p>Specified rewards versus intended objectives; Goodhart effects and reward hacking; goal misgeneralization; instrumental goals and power-seeking; the standard and statistical orthogonality theses.</p><p>Revisit Gao et al.’s reward curves from Week 6. What can a proxy reward and a separately trained evaluator tell us about human preferences?</p><p class="due">Problem Set 3 due Mar 26 · Problem Set 4 assigned</p></div></li>
     <li><div class="week"><strong>Week 9</strong><br>Mar 30 &amp; Apr 1</div><div><h3>Mind, agency, values, and accountability</h3><p>Consciousness, moral status, agency, free choice, responsibility gaps, and accountability for autonomous systems.</p><p class="due">Project checkpoint due; exact date to be announced</p></div></li>
     <li><div class="week"><strong>Week 10</strong><br>Apr 6 &amp; 8</div><div><h3>Economic consequences</h3><p>Growth, labor and inequality, systemic risk, institutional design, and competing views of AI risk.</p><p class="due">Problem Set 4 due Apr 9</p></div></li>
     <li><div class="week"><strong>Week 11</strong><br>Apr 13 &amp; 15</div><div><h3>Student project presentations</h3><p class="due">Project presentations</p></div></li>
@@ -101,9 +101,20 @@ description: COS 460, Spring 2027, Princeton University. Course information, pre
     <li>Bengio et al. (2026), <em>International AI Safety Report 2026</em>.</li>
     <li>Narayanan and Kapoor (2025), <em>AI as Normal Technology</em>.</li>
   </ul></details>
-  <details><summary>RLHF, post-training, and specification</summary><ul>
+  <details><summary>Evaluating capabilities · Week 2</summary><ul>
+    <li>METR (2025), <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/85069585133c4c168c865e65d72e9775-Paper-Conference.pdf">Measuring AI Ability to Complete Long Software Tasks</a>. Read alongside Han et al. below.</li>
+    <li>Stanford CS 120, <a href="https://stanford-cs120.github.io/fall2026/lectures/notes/m5_t15.html">What makes an evaluation valid?</a>. Optional discussion guide.</li>
+  </ul></details>
+  <details><summary>Evolutionary game theory · Week 5</summary><ul>
+    <li>Nowak (2006), <a href="https://pubmed.ncbi.nlm.nih.gov/17158317/">Five Rules for the Evolution of Cooperation</a>.</li>
+  </ul></details>
+  <details><summary>RLHF, social choice, and specification</summary><ul>
     <li>Christiano et al. (2017), <em>Deep Reinforcement Learning from Human Preferences</em>.</li>
     <li>Ouyang et al. (2022), <em>Training Language Models to Follow Instructions with Human Feedback</em>.</li>
+    <li>Rafailov et al. (2023), <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>.</li>
+    <li>Conitzer et al. (2024), <a href="https://arxiv.org/abs/2404.10271">Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback</a>.</li>
+    <li>Munos et al. (2023), <a href="https://arxiv.org/abs/2312.00886">Nash Learning from Human Feedback</a>. Optional mathematical follow-up.</li>
+    <li>Gao, Schulman, and Hilton (2023), <a href="https://proceedings.mlr.press/v202/gao23h.html">Scaling Laws for Reward Model Overoptimization</a>. Weeks 6 and 8.</li>
     <li>Bai et al. (2022), <em>Constitutional AI: Harmlessness from AI Feedback</em>.</li>
     <li>Casper et al. (2023), <em>Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback</em>. Selected sections.</li>
     <li>Langosco et al. (2022), <em>Goal Misgeneralization in Deep Reinforcement Learning</em>.</li>
@@ -111,6 +122,7 @@ description: COS 460, Spring 2027, Princeton University. Course information, pre
   <details><summary>Robustness, interpretability, and deception</summary><ul>
     <li>Burns et al. (2022), <em>Discovering Latent Knowledge in Language Models Without Supervision</em>.</li>
     <li>Zou et al. (2023), <em>Universal and Transferable Adversarial Attacks on Aligned Language Models</em>.</li>
+    <li>Greenblatt et al. (2024), <a href="https://proceedings.mlr.press/v235/greenblatt24a.html">AI Control: Improving Safety Despite Intentional Subversion</a>. March 18 case study.</li>
     <li>Greenblatt et al. (2024), <em>Alignment Faking in Large Language Models</em>.</li>
   </ul></details>
   <details><summary>Multi-agent alignment, incentives, and scalable oversight</summary><ul>
@@ -118,6 +130,7 @@ description: COS 460, Spring 2027, Princeton University. Course information, pre
     <li>Leike et al. (2018), <em>Scalable Agent Alignment via Reward Modeling</em>.</li>
     <li>Irving, Christiano, and Amodei (2018), <em>AI Safety via Debate</em>.</li>
     <li>Brown-Cohen, Irving, and Piliouras (2023), <em>Scalable AI Safety via Doubly-Efficient Debate</em>.</li>
+    <li>Collina, Goel, Roth, and Sengupta (2026), <a href="https://arxiv.org/abs/2609.15803">Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control</a>. Optional Week 4 companion.</li>
     <li>Kenton et al. (2024), <em>On Scalable Oversight with Weak LLMs Judging Strong LLMs</em>.</li>
   </ul></details>
   <details open><summary>Princeton alignment readings</summary><ul>
@@ -138,8 +151,9 @@ description: COS 460, Spring 2027, Princeton University. Course information, pre
   </ul></details>
   <details><summary>Related courses and curricula</summary><ul>
     <li>Elad Hazan, <a href="https://sites.google.com/view/cos598aisafety/">Princeton COS 597Q: AI Safety &amp; Alignment</a>.</li>
-    <li>Boaz Barak, Harvard CS 2881R: AI Safety, Fall 2026 and Fall 2025 course archive.</li>
-    <li>Stanford CS 120: Introduction to AI Safety.</li>
+    <li>Boaz Barak, <a href="https://boazbk.github.io/mltheoryseminar/">Harvard CS 2881R: AI Safety</a> (Fall 2026 and Fall 2025 archive).</li>
+    <li>Aaron Roth, <a href="https://aaroth.github.io/cis-7000-ai-alignment/">Penn CIS 7000: Mathematical Foundations of AI Alignment</a>.</li>
+    <li><a href="https://stanford-cs120.github.io/fall2026/">Stanford CS 120: Introduction to AI Safety</a>.</li>
     <li>UC Berkeley, Understanding LLMs: Foundations and Safety.</li>
     <li>Center for AI Safety, AI Safety, Ethics, and Society Curriculum.</li>
   </ul></details>
