@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ### Current and upcoming offerings
 
-- [AI Safety and Alignment (COS 460)](/cos460/) — Spring 2027. Technical foundations of AI evaluation, scalable oversight, incentives, and mechanism design.
+- [AI Safety and Alignment (COS 460)](/cos460/spring2027/) — Spring 2027. Technical foundations of AI evaluation, scalable oversight, incentives, and mechanism design.
 
 ### Previous courses
 
