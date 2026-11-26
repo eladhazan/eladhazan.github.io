@@ -67,7 +67,7 @@ description: COS 460, Spring 2027, Princeton University. Course information, pre
 
   <h2 id="schedule">Tentative schedule</h2>
   <ol class="schedule">
-    <li><div class="week"><strong>Week 1</strong><br>Jan 26 &amp; 28</div><div><h3>Introduction to AI safety and alignment</h3><p>Present-day harms, risks from advanced AI, and the debate over research priorities. Genie examples introduce the distinctions among following instructions, understanding intent, and promoting welfare.</p><p class="weekly-reading"><strong>Reading.</strong> <a href="https://medium.com/@emilymenonbender/talking-about-a-schism-is-ahistorical-3c454a77220f">Emily M. Bender, “Talking about a ‘schism’ is ahistorical”</a> · <a href="https://docs.google.com/presentation/d/10rh4odaKQ-2VLxWXJTG2WICJo6L1MhxteJZOaCbnNhQ/edit#slide=id.g2799aac8466_0_10">Response slides from COS 597Q</a> · <a href="https://arxiv.org/abs/2001.09768">Iason Gabriel, “Artificial Intelligence, Values, and Alignment”</a>.</p><p class="due">Course orientation · Project directions introduced</p></div></li>
+    <li><div class="week"><strong>Week 1</strong><br>Jan 26 &amp; 28</div><div><h3>Introduction to AI safety and alignment</h3><p>Present-day harms and risks from advanced AI. Genie examples distinguish following instructions, understanding intent, and promoting welfare.</p><p><strong>Sociology of safety and ethics research.</strong> How did the AI ethics and AI safety communities develop their research priorities?</p><p class="weekly-reading"><strong>Reading.</strong> <a href="https://medium.com/@emilymenonbender/talking-about-a-schism-is-ahistorical-3c454a77220f">Emily M. Bender, “Talking about a ‘schism’ is ahistorical”</a> · <a href="https://docs.google.com/presentation/d/10rh4odaKQ-2VLxWXJTG2WICJo6L1MhxteJZOaCbnNhQ/edit#slide=id.g2799aac8466_0_10">Response slides from COS 597Q</a> · <a href="https://arxiv.org/abs/2001.09768">Iason Gabriel, “Artificial Intelligence, Values, and Alignment”</a>.</p><p class="due">Course orientation · Project directions introduced</p></div></li>
     <li><div class="week"><strong>Week 2</strong><br>Feb 2 &amp; 4</div><div><h3>Measuring intelligence and capability</h3><p>Psychometrics, the positive manifold, and item response theory. Compare game-based ratings (Elo and Bradley–Terry), METR’s task-completion time horizon, and adversarial psychometrics, including SepaRank. What does each measure tell us about ability?</p><p class="weekly-reading"><strong>Reading.</strong> Lalor, Wu, and Yu, <a href="https://aclanthology.org/D16-1062.pdf">Building an Evaluation Scale using Item Response Theory</a> · METR, <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/85069585133c4c168c865e65d72e9775-Paper-Conference.pdf">Measuring AI Ability to Complete Long Software Tasks</a>.</p><p class="due">Problem Set 1 assigned</p></div></li>
     <li><div class="week"><strong>Week 3</strong><br>Feb 9 &amp; 11</div><div><h3>How language models are trained: pretraining, RLHF, and preference optimization</h3><p>Trace an assistant from next-token prediction through supervised instruction tuning to reinforcement learning from human feedback (RLHF). How do pairwise judgments become a reward, what happens when we optimize it, and whose preferences does it represent? Compare KL-regularized policy optimization with direct preference optimization.</p><p class="weekly-reading"><strong>Reading.</strong> Ouyang et al., <a href="https://arxiv.org/abs/2203.02155">Training Language Models to Follow Instructions with Human Feedback</a> (Figure 2) · Rafailov et al., <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a> (preference loss). Further reading on disagreement: Conitzer et al., <a href="https://arxiv.org/abs/2404.10271">Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback</a>.</p><p class="due">Problem Set 1 due Feb 12 · Project idea submission</p></div></li>
     <li><div class="week"><strong>Week 4</strong><br>Feb 16 &amp; 18</div><div><h3>Debate, regret in large games, and rationality</h3><p>AI debate; regret minimization; oracle-efficient learning in large games; hidden games; strategic reasoning and rationality.</p><p class="weekly-reading"><strong>Reading.</strong> Irving, Christiano, and Amodei, <a href="https://arxiv.org/abs/1805.00899">AI Safety via Debate</a>. In the image-classification example, what must the judge be able to verify?</p><p class="due">Problem Set 2 assigned · Project teams formed</p></div></li>
@@ -84,17 +84,21 @@ description: COS 460, Spring 2027, Princeton University. Course information, pre
   </ol>
 
   <h2 id="readings">Readings by week</h2>
-  <details open><summary>Week 1 · Introduction to AI safety and alignment</summary><ul>
-    <li><a href="https://medium.com/@emilymenonbender/talking-about-a-schism-is-ahistorical-3c454a77220f">Emily M. Bender, “Talking about a ‘schism’ is ahistorical”</a>.</li>
-    <li><a href="https://docs.google.com/presentation/d/10rh4odaKQ-2VLxWXJTG2WICJo6L1MhxteJZOaCbnNhQ/edit#slide=id.g2799aac8466_0_10">Response slides from COS 597Q</a>.</li>
-    <li><a href="https://arxiv.org/abs/2001.09768">Iason Gabriel, “Artificial Intelligence, Values, and Alignment”</a>.</li>
-    <li>Amodei et al. (2016), <em>Concrete Problems in AI Safety</em>.</li>
-    <li>Ngo, Chan, and Mindermann (2022), <em>The Alignment Problem from a Deep Learning Perspective</em>.</li>
-    <li>Carlsmith (2022), <em>Is Power-Seeking AI an Existential Risk?</em></li>
-    <li>Critch and Tsimerman (2025), <a href="https://arxiv.org/pdf/2507.09369">A Taxonomy of Omnicidal Futures Involving Artificial Intelligence</a>.</li>
-    <li>Bengio et al. (2026), <em>International AI Safety Report 2026</em>.</li>
-    <li>Narayanan and Kapoor (2025), <em>AI as Normal Technology</em>.</li>
-  </ul></details>
+  <details open><summary>Week 1 · Introduction to AI safety and alignment</summary>
+    <h4>AI safety and alignment</h4><ul>
+      <li><a href="https://arxiv.org/abs/2001.09768">Iason Gabriel, “Artificial Intelligence, Values, and Alignment”</a>.</li>
+      <li>Amodei et al. (2016), <em>Concrete Problems in AI Safety</em>.</li>
+      <li>Ngo, Chan, and Mindermann (2022), <em>The Alignment Problem from a Deep Learning Perspective</em>.</li>
+      <li>Carlsmith (2022), <em>Is Power-Seeking AI an Existential Risk?</em></li>
+      <li>Critch and Tsimerman (2025), <a href="https://arxiv.org/pdf/2507.09369">A Taxonomy of Omnicidal Futures Involving Artificial Intelligence</a>.</li>
+      <li>Bengio et al. (2026), <em>International AI Safety Report 2026</em>.</li>
+      <li>Narayanan and Kapoor (2025), <em>AI as Normal Technology</em>.</li>
+    </ul>
+    <h4>Sociology of safety and ethics research</h4><ul>
+      <li><a href="https://medium.com/@emilymenonbender/talking-about-a-schism-is-ahistorical-3c454a77220f">Emily M. Bender, “Talking about a ‘schism’ is ahistorical”</a>.</li>
+      <li><a href="https://docs.google.com/presentation/d/10rh4odaKQ-2VLxWXJTG2WICJo6L1MhxteJZOaCbnNhQ/edit#slide=id.g2799aac8466_0_10">Response slides from COS 597Q</a>.</li>
+    </ul>
+  </details>
   <details><summary>Week 2 · Measuring intelligence and capability</summary><ul>
     <li>Lalor, Wu, and Yu (2016), <a href="https://aclanthology.org/D16-1062.pdf">Building an Evaluation Scale using Item Response Theory</a>.</li>
     <li>METR (2025), <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/85069585133c4c168c865e65d72e9775-Paper-Conference.pdf">Measuring AI Ability to Complete Long Software Tasks</a>.</li>
