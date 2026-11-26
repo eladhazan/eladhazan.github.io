@@ -57,7 +57,6 @@ description: COS 460, Spring 2027, Princeton University. Course information, pre
   <p>These are the questions we will consider in this advanced undergraduate course. We will study algorithms and optimization-based methods for alignment; multi-agent systems and mechanism design; scalable oversight; measuring superhuman intelligence and adversarial psychometrics; the mind-body problem as applied to AI; agency, accountability, and free choice; and the forecasted economic impact of breakthroughs in AI.</p>
   <p>The course will be both broad and rigorous, and students will be expected to engage in both conceptual and rigorous mathematical thinking.</p>
   <dl class="logistics">
-    <dt>Contact</dt><dd><a href="mailto:ehazan@princeton.edu">Course email</a></dd>
     <dt>Meetings</dt><dd>Tuesdays and Thursdays, 9:00–10:20 a.m. Room assignment pending. <a href="https://www.cs.princeton.edu/courses/schedule?semester=spring27">Department schedule</a>.</dd>
     <dt>Office hours</dt><dd>To be announced.</dd>
     <dt>Prerequisite</dt><dd>COS 324, Introduction to Machine Learning, or equivalent preparation.</dd>
@@ -84,13 +83,11 @@ description: COS 460, Spring 2027, Princeton University. Course information, pre
     <li><div class="week"><strong>Final</strong><br>May 7–13</div><div><h3>Final assessment period</h3><p class="due">Final project paper</p></div></li>
   </ol>
 
-  <h2 id="readings">Preliminary reading list</h2>
-  <details open><summary>Foundational books</summary><ul>
-    <li>Nick Bostrom (2014), <em>Superintelligence: Paths, Dangers, Strategies</em>.</li>
-    <li>William MacAskill (2022), <em>What We Owe the Future</em>.</li>
-    <li>Stuart Russell (2019), <em>Human Compatible: Artificial Intelligence and the Problem of Control</em>.</li>
-  </ul></details>
-  <details><summary>Why might advanced AI be dangerous?</summary><ul>
+  <h2 id="readings">Readings by week</h2>
+  <details open><summary>Week 1 · Introduction to AI safety and alignment</summary><ul>
+    <li><a href="https://medium.com/@emilymenonbender/talking-about-a-schism-is-ahistorical-3c454a77220f">Emily M. Bender, “Talking about a ‘schism’ is ahistorical”</a>.</li>
+    <li><a href="https://docs.google.com/presentation/d/10rh4odaKQ-2VLxWXJTG2WICJo6L1MhxteJZOaCbnNhQ/edit#slide=id.g2799aac8466_0_10">Response slides from COS 597Q</a>.</li>
+    <li><a href="https://arxiv.org/abs/2001.09768">Iason Gabriel, “Artificial Intelligence, Values, and Alignment”</a>.</li>
     <li>Amodei et al. (2016), <em>Concrete Problems in AI Safety</em>.</li>
     <li>Ngo, Chan, and Mindermann (2022), <em>The Alignment Problem from a Deep Learning Perspective</em>.</li>
     <li>Carlsmith (2022), <em>Is Power-Seeking AI an Existential Risk?</em></li>
@@ -98,59 +95,63 @@ description: COS 460, Spring 2027, Princeton University. Course information, pre
     <li>Bengio et al. (2026), <em>International AI Safety Report 2026</em>.</li>
     <li>Narayanan and Kapoor (2025), <em>AI as Normal Technology</em>.</li>
   </ul></details>
-  <details><summary>Measuring intelligence and capability · Week 2</summary><ul>
+  <details><summary>Week 2 · Measuring intelligence and capability</summary><ul>
     <li>Lalor, Wu, and Yu (2016), <a href="https://aclanthology.org/D16-1062.pdf">Building an Evaluation Scale using Item Response Theory</a>.</li>
-    <li>Bradley and Terry (1952), <a href="https://doi.org/10.1093/biomet/39.3-4.324">Rank Analysis of Incomplete Block Designs: I. The Method of Paired Comparisons</a>.</li>
     <li>METR (2025), <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/85069585133c4c168c865e65d72e9775-Paper-Conference.pdf">Measuring AI Ability to Complete Long Software Tasks</a>.</li>
+    <li>Bradley and Terry (1952), <a href="https://doi.org/10.1093/biomet/39.3-4.324">Rank Analysis of Incomplete Block Designs: I. The Method of Paired Comparisons</a>.</li>
     <li>Adversarial psychometrics case study: Han et al. (2026), <a href="https://arxiv.org/abs/2607.07040">Measuring Intelligence Beyond Human Scale</a>.</li>
     <li>Stanford CS 120, <a href="https://stanford-cs120.github.io/fall2026/lectures/notes/m5_t15.html">What makes an evaluation valid?</a>. Optional discussion guide.</li>
   </ul></details>
-  <details><summary>Evolutionary game theory · Week 7</summary><ul>
-    <li>Nowak (2006), <a href="https://pubmed.ncbi.nlm.nih.gov/17158317/">Five Rules for the Evolution of Cooperation</a>.</li>
-  </ul></details>
-  <details><summary>RLHF, social choice, and specification</summary><ul>
-    <li>Christiano et al. (2017), <em>Deep Reinforcement Learning from Human Preferences</em>.</li>
-    <li>Ouyang et al. (2022), <em>Training Language Models to Follow Instructions with Human Feedback</em>.</li>
+  <details><summary>Week 3 · How language models are trained: pretraining, RLHF, and preference optimization</summary><ul>
+    <li>Ouyang et al. (2022), <a href="https://arxiv.org/abs/2203.02155">Training Language Models to Follow Instructions with Human Feedback</a>.</li>
     <li>Rafailov et al. (2023), <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>.</li>
     <li>Conitzer et al. (2024), <a href="https://arxiv.org/abs/2404.10271">Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback</a>.</li>
+    <li>Christiano et al. (2017), <em>Deep Reinforcement Learning from Human Preferences</em>.</li>
     <li>Munos et al. (2023), <a href="https://arxiv.org/abs/2312.00886">Nash Learning from Human Feedback</a>. Optional mathematical follow-up.</li>
-    <li>Gao, Schulman, and Hilton (2023), <a href="https://proceedings.mlr.press/v202/gao23h.html">Scaling Laws for Reward Model Overoptimization</a>. Weeks 3 and 8.</li>
     <li>Bai et al. (2022), <em>Constitutional AI: Harmlessness from AI Feedback</em>.</li>
     <li>Casper et al. (2023), <em>Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback</em>. Selected sections.</li>
-    <li>Langosco et al. (2022), <em>Goal Misgeneralization in Deep Reinforcement Learning</em>.</li>
   </ul></details>
-  <details><summary>Mechanisms for truthful reporting · Week 6</summary><ul>
+  <details><summary>Week 4 · Debate, regret in large games, and rationality</summary><ul>
+    <li>Irving, Christiano, and Amodei (2018), <a href="https://arxiv.org/abs/1805.00899">AI Safety via Debate</a>.</li>
+    <li>Brown-Cohen, Irving, and Piliouras (2023), <em>Scalable AI Safety via Doubly-Efficient Debate</em>.</li>
+    <li>Kenton et al. (2024), <em>On Scalable Oversight with Weak LLMs Judging Strong LLMs</em>.</li>
+  </ul></details>
+  <details><summary>Week 5 · Multi-agent alignment and mechanism design</summary><ul>
+    <li>Agarwal et al. (2026), <a href="https://arxiv.org/abs/2605.01643">AI Alignment via Incentives and Correction</a>.</li>
+    <li>Collina, Goel, Roth, and Sengupta (2026), <a href="https://arxiv.org/abs/2609.15803">Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control</a>. Optional Week 5 companion.</li>
+    <li>Hadfield-Menell et al. (2017), <em>The Off-Switch Game</em>.</li>
+    <li>Leike et al. (2018), <em>Scalable Agent Alignment via Reward Modeling</em>.</li>
+    <li>Greenblatt et al. (2024), <a href="https://proceedings.mlr.press/v235/greenblatt24a.html">AI Control: Improving Safety Despite Intentional Subversion</a>.</li>
+  </ul></details>
+  <details><summary>Week 6 · Mechanisms for truthful reporting</summary><ul>
     <li>Miller, Resnick, and Zeckhauser (2005), <a href="https://www.presnick.people.si.umich.edu/papers/elicit/FinalPrePub.pdf">Eliciting Informative Feedback: The Peer-Prediction Method</a>.</li>
     <li>Prelec (2004), <a href="https://doi.org/10.1126/science.1102081">A Bayesian Truth Serum for Subjective Data</a>.</li>
   </ul></details>
-  <details><summary>Further reading on interpretability, deception, and AI control</summary><ul>
-    <li>Burns et al. (2022), <em>Discovering Latent Knowledge in Language Models Without Supervision</em>.</li>
-    <li>Greenblatt et al. (2024), <a href="https://proceedings.mlr.press/v235/greenblatt24a.html">AI Control: Improving Safety Despite Intentional Subversion</a>.</li>
-    <li>Greenblatt et al. (2024), <em>Alignment Faking in Large Language Models</em>.</li>
+  <details><summary>Week 7 · Evolutionary game theory and emergent behavior</summary><ul>
+    <li>Nowak (2006), <a href="https://pubmed.ncbi.nlm.nih.gov/17158317/">Five Rules for the Evolution of Cooperation</a>.</li>
   </ul></details>
-  <details><summary>Multi-agent alignment, incentives, and scalable oversight</summary><ul>
-    <li>Hadfield-Menell et al. (2017), <em>The Off-Switch Game</em>.</li>
-    <li>Leike et al. (2018), <em>Scalable Agent Alignment via Reward Modeling</em>.</li>
-    <li>Irving, Christiano, and Amodei (2018), <em>AI Safety via Debate</em>.</li>
-    <li>Brown-Cohen, Irving, and Piliouras (2023), <em>Scalable AI Safety via Doubly-Efficient Debate</em>.</li>
-    <li>Collina, Goel, Roth, and Sengupta (2026), <a href="https://arxiv.org/abs/2609.15803">Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control</a>. Optional Week 5 companion.</li>
-    <li>Kenton et al. (2024), <em>On Scalable Oversight with Weak LLMs Judging Strong LLMs</em>.</li>
-  </ul></details>
-  <details open><summary>Princeton alignment readings</summary><ul>
-    <li>Han et al. (2026), <a href="https://arxiv.org/abs/2607.07040">Measuring Intelligence Beyond Human Scale</a>.</li>
-    <li>Agarwal et al. (2026), <a href="https://arxiv.org/abs/2605.01643">AI Alignment via Incentives and Correction</a>.</li>
+  <details><summary>Week 8 · Goals, generalization, and orthogonality</summary><ul>
+    <li>Gao, Schulman, and Hilton (2023), <a href="https://proceedings.mlr.press/v202/gao23h.html">Scaling Laws for Reward Model Overoptimization</a>. Weeks 3 and 8.</li>
+    <li>Langosco et al. (2022), <em>Goal Misgeneralization in Deep Reinforcement Learning</em>.</li>
     <li><em>The Statistical Orthogonality Thesis</em> (2026).</li>
-  </ul></details>
-  <details><summary>Mind, agency, and accountability</summary><ul>
     <li>Bostrom (2012), <em>The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents</em>.</li>
-    <li>Chalmers (2023), <em>Could a Large Language Model Be Conscious?</em></li>
+    <li>Greenblatt et al. (2024), <em>Alignment Faking in Large Language Models</em>.</li>
+    <li>Burns et al. (2022), <em>Discovering Latent Knowledge in Language Models Without Supervision</em>.</li>
+  </ul></details>
+  <details><summary>Week 9 · Mind, agency, values, and accountability</summary><ul>
+    <li>Chalmers (2023), <a href="https://arxiv.org/abs/2303.07103">Could a Large Language Model Be Conscious?</a></li>
     <li>Butlin et al. (2023), <em>Consciousness in Artificial Intelligence: Insights from the Science of Consciousness</em>.</li>
     <li>Matthias (2004), <em>The Responsibility Gap: Ascribing Responsibility for the Actions of Learning Automata</em>.</li>
   </ul></details>
-  <details><summary>Economic consequences and possible futures</summary><ul>
-    <li>Jones (2024), <em>The A.I. Dilemma: Growth versus Existential Risk</em>.</li>
+  <details><summary>Week 10 · Economic consequences</summary><ul>
+    <li>Jones (2024), <a href="https://doi.org/10.1257/aeri.20230570">The AI Dilemma: Growth versus Existential Risk</a>.</li>
     <li>Davidson, Hadshar, and MacAskill (2025), <em>Three Types of Intelligence Explosion</em>.</li>
     <li>Kokotajlo et al. (2025), <em>AI 2027</em>.</li>
+  </ul></details>
+  <details><summary>Background books</summary><ul>
+    <li>Nick Bostrom (2014), <em>Superintelligence: Paths, Dangers, Strategies</em>.</li>
+    <li>William MacAskill (2022), <em>What We Owe the Future</em>.</li>
+    <li>Stuart Russell (2019), <em>Human Compatible: Artificial Intelligence and the Problem of Control</em>.</li>
   </ul></details>
   <details><summary>Related courses and curricula</summary><ul>
     <li><a href="https://sites.google.com/view/cos598aisafety/">Princeton COS 597Q: AI Safety &amp; Alignment</a>.</li>
