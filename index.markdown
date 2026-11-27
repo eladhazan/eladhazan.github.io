@@ -34,6 +34,14 @@ See [research](/research/), [bio and CV](/bio/), and our [group webpage and blog
 
 ---
 
+### Teaching
+
+Spring 2027 · [COS 460: AI Safety and Alignment](/cos460/spring2027/)
+
+Other courses include Theoretical Machine Learning, Computational Control Theory, and Introduction to Machine Learning. [Course websites, semesters, and tutorials](/teaching/).
+
+---
+
 ### Selected talks
 
 - [Provably Efficient Learning in Nonlinear Dynamical Systems via Spectral Transformers](https://lids.mit.edu/events/lids-seminar-elad-hazan)
@@ -41,9 +49,3 @@ See [research](/research/), [bio and CV](/bio/), and our [group webpage and blog
 - [The Nonstochastic Control Problem](https://www.youtube.com/watch?v=dmWXHmjVxcI)
 
 More talks and lectures on my [YouTube channel](https://www.youtube.com/@hazanprinceton).
-
----
-
-### Teaching
-
-Courses: Theoretical Machine Learning, AI Alignment and Safety, Computational Control Theory, and Introduction to Machine Learning. [Course websites, semesters, and tutorials](/teaching/).
